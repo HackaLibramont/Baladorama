@@ -1,4 +1,4 @@
-angular.module('starter.controllers', [])
+angular.module('starter.controllers', ['osmMap', 'api'])
 
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
   // Form data for the login modal
@@ -33,25 +33,60 @@ angular.module('starter.controllers', [])
   };
 })
 
-.controller('HomeCtrl', function($scope) {
-  $scope.initializeMap = function(event) {
-    var map = L.map('map').setView([51.505, -0.09], 13);
+.controller('HomeCtrl', function($scope, $osm, $cordovaGeolocation) {
+  $osm.init();
 
-    // add an OpenStreetMap tile layer
-    L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
+  var posOptions = {timeout: 10000, enableHighAccuracy: false};
+  $cordovaGeolocation
+    .getCurrentPosition(posOptions)
+    .then(function (position) {
+      console.log(position);
+  
+      $osm.update(position, true);
+    }, function(err) {
+      console.log(err);
+    });
 
-    // add a marker in the given location, attach some popup content to it and open the popup
-    L.marker([51.5, -0.09]).addTo(map)
-      .bindPopup('A pretty CSS3 popup. <br> Easily customizable.')
-      .openPopup();
+  var watchOptions = {
+    frequency : 7000,
+    timeout : 3000,
+    enableHighAccuracy: false // may cause errors if true
   };
 
-  $scope.initializeMap();
-
+  var watch = $cordovaGeolocation.watchPosition(watchOptions);
+  watch.then(
+    null,
+    function(err) {
+      // error
+    },
+    function(position) {
+      console.log(position);
+      $osm.update(position, false);
+  });
   
+
 })
 
-.controller('PlaylistCtrl', function($scope, $stateParams) {
+.controller('PoisCtrl', function($scope, $stateParams, $cordovaGeolocation, $osm, Pois) {
+  // GET /pois/find?latitude=..&longitude=..&radius=(metres)
+
+  var posOptions = {timeout: 10000, enableHighAccuracy: false};
+  $cordovaGeolocation
+    .getCurrentPosition(posOptions)
+    .then(function (position) {
+      var pois = Pois.query({
+        latitude: position.coords.latitude,
+        longitude: position.coords.longitude,
+        radius: 10000
+      }, function() {
+        console.log(pois);
+        $osm.addPois(pois);
+      });
+    }, function(err) {
+      console.log(err);
+    });
+
+
+  
+  console.log('hello');
 });
