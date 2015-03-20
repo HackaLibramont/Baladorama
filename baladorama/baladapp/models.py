@@ -3,6 +3,24 @@ import datetime
 
 # Create your models here.
 
+class City(models.Model):
+    name = models.CharField(max_length=100)
+    zipcode = models.IntegerField(null=True)
+    country = models.CharField(max_length=100)
+    latitude = models.DecimalField(max_digits=4, decimal_places=2)
+    longitude = models.DecimalField(max_digits=4, decimal_places=2)
+
+class PoiType(models.Model):
+    name = models.CharField(max_length=100)
+
+class Poi(models.Model):
+    name = models.CharField(max_length=100)
+    latitude = models.DecimalField(max_digits=4, decimal_places=2, null=True)
+    longitude = models.DecimalField(max_digits=4, decimal_places=2, null=True)
+    description = models.TextField(null=True)
+    website = models.CharField(max_length=100, null=True)
+    poi_type = models.ForeignKey(PoiType)
+
 class Walk(models.Model):
     name = models.CharField(max_length=45, null=True)
     address = models.CharField(max_length=100, null=True)
@@ -23,10 +41,11 @@ class Walk(models.Model):
     waypoints = models.TextField(null=True)
     created_at = models.DateTimeField(default=datetime.datetime.now())
     updated_at = models.DateTimeField(default=datetime.datetime.now())
+    pois = models.ManyToManyField(Poi)
+    cities = models.ManyToManyField(City, through='Location')
 
-class City(models.Model):
-    name = models.CharField(max_length=100)
-    zipcode = models.IntegerField(null=True)
-    country = models.CharField(max_length=100)
-    latitude = models.DecimalField(max_digits=4, decimal_places=2)
-    longitude = models.DecimalField(max_digits=4, decimal_places=2)
+class Location(models.Model):
+    is_start = models.BooleanField(default=False)
+    is_stop = models.BooleanField(default=False)
+    city = models.ForeignKey(City)
+    walk = models.ForeignKey(Walk)
