@@ -1,0 +1,16 @@
+[
+    {
+        "model": "baladapp.Walk",
+        "pk": 1,
+        "fields": {
+            "name": "My Walk"
+        }
+    },
+    {
+        "model": "baladapp.Walk",
+        "pk": 2,
+        "fields": {
+            "name": "Nice Walk"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "model": "baladapp.City",
+        "pk": 1,
+        "fields": {
+            "name": "Charleroi",
+            "zipcode": 6000,
+            "country": "BE",
+            "latitude": "50.46",
+            "longitude": "4.43"
+        }
+    },
+    {
+        "model": "baladapp.City",
+        "pk": 2,
+        "fields": {
+            "name": "Namur",
+            "zipcode": 5000,
+            "country": "BE",
+            "latitude": "50.47",
+            "longitude": "4.87"
+        }
+    },
+    {
+        "model": "baladapp.City",
+        "pk": 3,
+        "fields": {
+            "name": "Heppignies",
+            "zipcode": 6041,
+            "country": "BE",
+            "latitude": "50.46",
+            "longitude": "4.46"
+        }
+    }
+]
