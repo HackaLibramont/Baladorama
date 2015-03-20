@@ -18,7 +18,7 @@
     command: migrate
     app_path: "{{ application_path }}"
     virtualenv: "{{ virtualenv_path }}"
-    settings: "{{ django_settings_file }}"
+  #  settings: "{{ django_settings_file }}"
   environment: django_environment
   when: run_django_south_migration
   tags: django.migrate
@@ -28,7 +28,7 @@
     command: collectstatic
     app_path: "{{ application_path }}"
     virtualenv: "{{ virtualenv_path }}"
-    settings: "{{ django_settings_file }}"
+  #  settings: "{{ django_settings_file }}"
   environment: django_environment
   when: run_django_collectstatic
   tags: django.collectstatic
