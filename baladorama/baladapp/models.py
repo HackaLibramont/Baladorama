@@ -22,6 +22,13 @@ class Poi(models.Model):
     phone = models.CharField(max_length=45, null=True)
     poi_type = models.ForeignKey(PoiType)
 
+class City(models.Model):
+    name = models.CharField(max_length=100)
+    zipcode = models.IntegerField(null=True)
+    country = models.CharField(max_length=100)
+    latitude = models.DecimalField(max_digits=4, decimal_places=2)
+    longitude = models.DecimalField(max_digits=4, decimal_places=2)
+
 class Walk(models.Model):
     name = models.CharField(max_length=45, null=True)
     address = models.CharField(max_length=100, null=True)
@@ -50,3 +57,21 @@ class Location(models.Model):
     is_stop = models.BooleanField(default=False)
     city = models.ForeignKey(City)
     walk = models.ForeignKey(Walk)
+
+class GPX(models.Model):
+    name = models.CharField(max_length=100)
+    metadata = models.CharField(max_length=200)
+
+class GPXTrack(models.Model):
+    name = models.CharField(max_length=100)
+    gpx = models.ForeignKey(GPX)
+
+class GPXSegment(models.Model):
+    name = models.CharField(max_length=100)
+    track = models.ForeignKey(GPXTrack)
+
+class GPXWaypoint(models.Model):
+    name = models.CharField(max_length=100)
+    latitude = models.CharField(max_length=30)
+    longitude = models.CharField(max_length=30)
+    segment = models.ForeignKey(GPXSegment)
