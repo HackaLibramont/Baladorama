@@ -33,15 +33,24 @@ angular.module('starter.controllers', [])
   };
 })
 
-.controller('PlaylistsCtrl', function($scope) {
-  $scope.playlists = [
-    { title: 'Reggae', id: 1 },
-    { title: 'Chill', id: 2 },
-    { title: 'Dubstep', id: 3 },
-    { title: 'Indie', id: 4 },
-    { title: 'Rap', id: 5 },
-    { title: 'Cowbell', id: 6 }
-  ];
+.controller('HomeCtrl', function($scope) {
+  $scope.initializeMap = function(event) {
+    var map = L.map('map').setView([51.505, -0.09], 13);
+
+    // add an OpenStreetMap tile layer
+    L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // add a marker in the given location, attach some popup content to it and open the popup
+    L.marker([51.5, -0.09]).addTo(map)
+      .bindPopup('A pretty CSS3 popup. <br> Easily customizable.')
+      .openPopup();
+  };
+
+  $scope.initializeMap();
+
+  
 })
 
 .controller('PlaylistCtrl', function($scope, $stateParams) {
