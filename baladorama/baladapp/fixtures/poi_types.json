@@ -1,0 +1,9 @@
+[
+    {
+        "model": "baladapp.PoiType",
+        "pk": 1,
+        "fields": {
+            "name": "Bâtiment civil"
+        }
+    }
+]

@@ -7,16 +7,16 @@ class City(models.Model):
     name = models.CharField(max_length=100)
     zipcode = models.IntegerField(null=True)
     country = models.CharField(max_length=100)
-    latitude = models.DecimalField(max_digits=4, decimal_places=2)
-    longitude = models.DecimalField(max_digits=4, decimal_places=2)
+    latitude = models.DecimalField(max_digits=8, decimal_places=5)
+    longitude = models.DecimalField(max_digits=8, decimal_places=5)
 
 class PoiType(models.Model):
     name = models.CharField(max_length=100)
 
 class Poi(models.Model):
     name = models.CharField(max_length=100)
-    latitude = models.DecimalField(max_digits=4, decimal_places=2, null=True)
-    longitude = models.DecimalField(max_digits=4, decimal_places=2, null=True)
+    latitude = models.DecimalField(max_digits=8, decimal_places=5, null=True)
+    longitude = models.DecimalField(max_digits=8, decimal_places=5, null=True)
     description = models.TextField(null=True)
     website = models.CharField(max_length=100, null=True)
     phone = models.CharField(max_length=45, null=True)
@@ -25,10 +25,10 @@ class Poi(models.Model):
 class Walk(models.Model):
     name = models.CharField(max_length=45, null=True)
     address = models.CharField(max_length=100, null=True)
-    start_latitude = models.DecimalField(max_digits=4, decimal_places=2, null=True)
-    start_longitude = models.DecimalField(max_digits=4, decimal_places=2, null=True)
-    stop_latitude = models.DecimalField(max_digits=4, decimal_places=2, null=True)
-    stop_longitude = models.DecimalField(max_digits=4, decimal_places=2, null=True)
+    start_latitude = models.DecimalField(max_digits=8, decimal_places=5, null=True)
+    start_longitude = models.DecimalField(max_digits=8, decimal_places=5, null=True)
+    stop_latitude = models.DecimalField(max_digits=8, decimal_places=5, null=True)
+    stop_longitude = models.DecimalField(max_digits=8, decimal_places=5, null=True)
     distance = models.IntegerField(null=True)
     is_for_walker = models.BooleanField(default=False)
     is_for_horse = models.BooleanField(default=False)
