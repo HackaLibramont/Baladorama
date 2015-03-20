@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.6" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2009-12-14T15:11:23Z</time>
+    <bounds maxlat="50.4054775" maxlon="5.5391762" minlat="50.3935146" minlon="5.5227651"/>
+  </metadata>
+
+  <wpt lat="50.4021448" lon="5.5227651">
+    <ele>130.9023438</ele>
+    <time>2009-12-14T14:00:00Z</time>
+    <name>01 Parking Sy</name>
+    <cmt>Ferrières</cmt>
+    <desc>Ferrières</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.4018120" lon="5.5249050">
+    <ele>126.0000000</ele>
+    <time>2009-12-14T14:00:50Z</time>
+    <name>02 Pont Chemin de fer</name>
+    <cmt>Ourthe et pont du chemin de fer</cmt>
+    <desc>Ourthe et pont du chemin de fer</desc>
+    <link href="D:/Mes%20Documents/00%20Studio%20Graphisme/0%20Tourisme%20GPS/Rando%20Palogne%20Sentier%20Cretes/Sy%20Palogne%20Cretes%2001.JPG"/>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.4014239" lon="5.5271807">
+    <time>2009-12-14T15:01:57Z</time>
+    <name>03 Ourthe</name>
+    <cmt>Ravel le long de l'Ourthe</cmt>
+    <desc>Ravel le long de l'Ourthe</desc>
+    <link href="D:/Mes%20Documents/00%20Studio%20Graphisme/0%20Tourisme%20GPS/Rando%20Palogne%20Sentier%20Cretes/Sy%20Palogne%20Cretes%2002.JPG"/>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.3988791" lon="5.5309725">
+    <ele>141.0000000</ele>
+    <time>2009-12-14T14:01:14Z</time>
+    <name>04 Palogne</name>
+    <cmt>Vue de Palogne</cmt>
+    <desc>Vue de Palogne</desc>
+    <link href="D:/Mes%20Documents/00%20Studio%20Graphisme/0%20Tourisme%20GPS/Rando%20Palogne%20Sentier%20Cretes/Sy%20Palogne%20Cretes%2003.JPG"/>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.3935146" lon="5.5379248">
+    <ele>144.0000000</ele>
+    <time>2009-12-14T15:04:19Z</time>
+    <name>05 Sentier des cretes</name>
+    <cmt>Route Locale et Sentier Non Revêtu</cmt>
+    <desc>Route Locale et Sentier Non Revêtu</desc>
+    <link href="D:/Mes%20Documents/00%20Studio%20Graphisme/0%20Tourisme%20GPS/Rando%20Palogne%20Sentier%20Cretes/Sy%20Palogne%20Cretes%2004.JPG"/>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.3952615" lon="5.5382568">
+    <time>2009-12-14T15:05:35Z</time>
+    <name>06 Vue du chateau de Logne</name>
+    <cmt>Le chateau de Logne</cmt>
+    <desc>Le chateau de Logne</desc>
+    <link href="D:/Mes%20Documents/00%20Studio%20Graphisme/0%20Tourisme%20GPS/Rando%20Palogne%20Sentier%20Cretes/Sy%20Palogne%20Cretes%2005.JPG"/>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.3970761" lon="5.5364583">
+    <time>2009-12-14T15:05:39Z</time>
+    <name>07 Belvedere</name>
+    <cmt>Le belvedere</cmt>
+    <desc>Le belvedere</desc>
+    <link href="D:/Mes%20Documents/00%20Studio%20Graphisme/0%20Tourisme%20GPS/Rando%20Palogne%20Sentier%20Cretes/Sy%20Palogne%20Cretes%2006.JPG"/>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.3975770" lon="5.5342195">
+    <ele>170.0000000</ele>
+    <time>2009-12-14T15:05:48Z</time>
+    <name>08 Vue de Palogne</name>
+    <cmt>Palogne</cmt>
+    <desc>Palogne</desc>
+    <link href="D:/Mes%20Documents/00%20Studio%20Graphisme/0%20Tourisme%20GPS/Rando%20Palogne%20Sentier%20Cretes/Sy%20Palogne%20Cretes%2007.JPG"/>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.3981399" lon="5.5356675">
+    <ele>175.0000000</ele>
+    <time>2009-12-14T15:06:18Z</time>
+    <name>09 Ne pas se perdre</name>
+    <cmt>Vive le GPS ;-))</cmt>
+    <desc>Vive le GPS ;-))</desc>
+    <link href="D:/Mes%20Documents/00%20Studio%20Graphisme/0%20Tourisme%20GPS/Rando%20Palogne%20Sentier%20Cretes/Sy%20Palogne%20Cretes%2008.JPG"/>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.4046907" lon="5.5309737">
+    <ele>190.0000000</ele>
+    <time>2009-12-14T14:02:37Z</time>
+    <name>10 Panorama Ourthe</name>
+    <cmt>Merci de ne pas tomber...</cmt>
+    <desc>Merci de ne pas tomber...</desc>
+    <link href="D:/Mes%20Documents/00%20Studio%20Graphisme/0%20Tourisme%20GPS/Rando%20Palogne%20Sentier%20Cretes/Sy%20Palogne%20Cretes%2011.JPG"/>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.4030592" lon="5.5247902">
+    <ele>132.0000000</ele>
+    <time>2009-12-14T15:10:00Z</time>
+    <name>11 Sy</name>
+    <cmt>Retour à Sy</cmt>
+    <desc>Retour à Sy</desc>
+    <link href="D:/Mes%20Documents/00%20Studio%20Graphisme/0%20Tourisme%20GPS/Rando%20Palogne%20Sentier%20Cretes/Sy%20Palogne%20Cretes%2012.JPG"/>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>Tracé</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="50.4021402" lon="5.5228249">
+        <ele>130.6601563</ele>
+      </trkpt>
+      <trkpt lat="50.4022615" lon="5.5231649">
+        <ele>129.3789063</ele>
+      </trkpt>
+      <trkpt lat="50.4023424" lon="5.5237516">
+        <ele>127.7500000</ele>
+      </trkpt>
+      <trkpt lat="50.4024726" lon="5.5241848">
+        <ele>126.7929688</ele>
+      </trkpt>
+      <trkpt lat="50.4024771" lon="5.5243548">
+        <ele>126.4375000</ele>
+      </trkpt>
+      <trkpt lat="50.4015923" lon="5.5251005">
+        <ele>131.3593750</ele>
+      </trkpt>
+      <trkpt lat="50.4014530" lon="5.5251060">
+        <ele>135.8789063</ele>
+      </trkpt>
+      <trkpt lat="50.4014261" lon="5.5249744">
+        <ele>137.5898438</ele>
+      </trkpt>
+      <trkpt lat="50.4014306" lon="5.5249634">
+        <ele>137.4414063</ele>
+      </trkpt>
+      <trkpt lat="50.4014665" lon="5.5247057">
+        <ele>137.1406250</ele>
+      </trkpt>
+      <trkpt lat="50.4016147" lon="5.5246289">
+        <ele>132.2890625</ele>
+      </trkpt>
+      <trkpt lat="50.4015608" lon="5.5255501">
+        <ele>131.2578125</ele>
+      </trkpt>
+      <trkpt lat="50.4013946" lon="5.5263178">
+        <ele>137.3984375</ele>
+      </trkpt>
+      <trkpt lat="50.4013946" lon="5.5263232">
+        <ele>137.4257813</ele>
+      </trkpt>
+      <trkpt lat="50.4014710" lon="5.5273815">
+        <ele>139.8554688</ele>
+      </trkpt>
+      <trkpt lat="50.4017315" lon="5.5279517">
+        <ele>133.3750000</ele>
+      </trkpt>
+      <trkpt lat="50.4020189" lon="5.5284233">
+        <ele>132.8242188</ele>
+      </trkpt>
+      <trkpt lat="50.4022572" lon="5.5290044">
+        <ele>133.5195313</ele>
+      </trkpt>
+      <trkpt lat="50.4026525" lon="5.5294595">
+        <ele>133.2656250</ele>
+      </trkpt>
+      <trkpt lat="50.4032139" lon="5.5308796">
+        <ele>136.4453125</ele>
+      </trkpt>
+      <trkpt lat="50.4032184" lon="5.5308961">
+        <ele>136.4531250</ele>
+      </trkpt>
+      <trkpt lat="50.4036856" lon="5.5319269">
+        <ele>133.2460938</ele>
+      </trkpt>
+      <trkpt lat="50.4036900" lon="5.5319324">
+        <ele>133.2226563</ele>
+      </trkpt>
+      <trkpt lat="50.4038877" lon="5.5323053">
+        <ele>133.1093750</ele>
+      </trkpt>
+      <trkpt lat="50.4039012" lon="5.5323327">
+        <ele>133.0546875</ele>
+      </trkpt>
+      <trkpt lat="50.4039236" lon="5.5329797">
+        <ele>131.1328125</ele>
+      </trkpt>
+      <trkpt lat="50.4039236" lon="5.5329851">
+        <ele>131.1289063</ele>
+      </trkpt>
+      <trkpt lat="50.4032095" lon="5.5341915">
+        <ele>129.5976563</ele>
+      </trkpt>
+      <trkpt lat="50.4027154" lon="5.5348714">
+        <ele>129.3945313</ele>
+      </trkpt>
+      <trkpt lat="50.4018846" lon="5.5359245">
+        <ele>128.5976563</ele>
+      </trkpt>
+      <trkpt lat="50.4011794" lon="5.5364125">
+        <ele>131.6992188</ele>
+      </trkpt>
+      <trkpt lat="50.4008291" lon="5.5366264">
+        <ele>135.2578125</ele>
+      </trkpt>
+      <trkpt lat="50.4002632" lon="5.5363248">
+        <ele>134.2890625</ele>
+      </trkpt>
+      <trkpt lat="50.3995671" lon="5.5353817">
+        <ele>131.4648438</ele>
+      </trkpt>
+      <trkpt lat="50.3993830" lon="5.5345647">
+        <ele>130.2812500</ele>
+      </trkpt>
+      <trkpt lat="50.3991899" lon="5.5334681">
+        <ele>130.8828125</ele>
+      </trkpt>
+      <trkpt lat="50.3990326" lon="5.5312200">
+        <ele>143.7578125</ele>
+      </trkpt>
+      <trkpt lat="50.3989927" lon="5.5309460">
+        <ele>144.9648438</ele>
+      </trkpt>
+      <trkpt lat="50.3989657" lon="5.5308802">
+        <ele>144.6171875</ele>
+      </trkpt>
+      <trkpt lat="50.3985930" lon="5.5311489">
+        <ele>132.0078125</ele>
+      </trkpt>
+      <trkpt lat="50.3984717" lon="5.5310612">
+        <ele>130.4101563</ele>
+      </trkpt>
+      <trkpt lat="50.3981617" lon="5.5313353">
+        <ele>126.7812500</ele>
+      </trkpt>
+      <trkpt lat="50.3983504" lon="5.5319659">
+        <ele>127.5585938</ele>
+      </trkpt>
+      <trkpt lat="50.3983594" lon="5.5319714">
+        <ele>127.5820313</ele>
+      </trkpt>
+      <trkpt lat="50.3983818" lon="5.5323881">
+        <ele>127.8281250</ele>
+      </trkpt>
+      <trkpt lat="50.3983818" lon="5.5323935">
+        <ele>127.8242188</ele>
+      </trkpt>
+      <trkpt lat="50.3981348" lon="5.5328432">
+        <ele>131.0351563</ele>
+      </trkpt>
+      <trkpt lat="50.3981124" lon="5.5328761">
+        <ele>131.6015625</ele>
+      </trkpt>
+      <trkpt lat="50.3979147" lon="5.5329857">
+        <ele>134.7695313</ele>
+      </trkpt>
+      <trkpt lat="50.3968547" lon="5.5328981">
+        <ele>133.1796875</ele>
+      </trkpt>
+      <trkpt lat="50.3965672" lon="5.5329913">
+        <ele>132.3515625</ele>
+      </trkpt>
+      <trkpt lat="50.3964954" lon="5.5331612">
+        <ele>132.4609375</ele>
+      </trkpt>
+      <trkpt lat="50.3965179" lon="5.5341646">
+        <ele>136.3085938</ele>
+      </trkpt>
+      <trkpt lat="50.3963966" lon="5.5349981">
+        <ele>142.4101563</ele>
+      </trkpt>
+      <trkpt lat="50.3961450" lon="5.5359850">
+        <ele>147.9570313</ele>
+      </trkpt>
+      <trkpt lat="50.3959026" lon="5.5363030">
+        <ele>147.0312500</ele>
+      </trkpt>
+      <trkpt lat="50.3955975" lon="5.5365882">
+        <ele>148.0742188</ele>
+      </trkpt>
+      <trkpt lat="50.3950810" lon="5.5368788">
+        <ele>146.1015625</ele>
+      </trkpt>
+      <trkpt lat="50.3947891" lon="5.5370872">
+        <ele>144.8164063</ele>
+      </trkpt>
+      <trkpt lat="50.3942905" lon="5.5372900">
+        <ele>143.0898438</ele>
+      </trkpt>
+      <trkpt lat="50.3938414" lon="5.5374052">
+        <ele>144.0820313</ele>
+      </trkpt>
+      <trkpt lat="50.3938368" lon="5.5374052">
+        <ele>144.0781250</ele>
+      </trkpt>
+      <trkpt lat="50.3935224" lon="5.5379206">
+        <ele>144.4335938</ele>
+      </trkpt>
+      <trkpt lat="50.3935943" lon="5.5381015">
+        <ele>145.8281250</ele>
+      </trkpt>
+      <trkpt lat="50.3949733" lon="5.5382166">
+        <ele>173.5703125</ele>
+      </trkpt>
+      <trkpt lat="50.3964465" lon="5.5383373">
+        <ele>200.4882813</ele>
+      </trkpt>
+      <trkpt lat="50.3968641" lon="5.5376354">
+        <ele>197.4921875</ele>
+      </trkpt>
+      <trkpt lat="50.3968911" lon="5.5367691">
+        <ele>186.5742188</ele>
+      </trkpt>
+      <trkpt lat="50.3970303" lon="5.5365278">
+        <ele>186.7460938</ele>
+      </trkpt>
+      <trkpt lat="50.3971561" lon="5.5357054">
+        <ele>179.0000000</ele>
+      </trkpt>
+      <trkpt lat="50.3971561" lon="5.5342633">
+        <ele>157.9140625</ele>
+      </trkpt>
+      <trkpt lat="50.3971606" lon="5.5342579">
+        <ele>157.9140625</ele>
+      </trkpt>
+      <trkpt lat="50.3974660" lon="5.5340769">
+        <ele>157.9375000</ele>
+      </trkpt>
+      <trkpt lat="50.3975738" lon="5.5342249">
+        <ele>160.3125000</ele>
+      </trkpt>
+      <trkpt lat="50.3976679" lon="5.5351241">
+        <ele>174.9726563</ele>
+      </trkpt>
+      <trkpt lat="50.3978700" lon="5.5351132">
+        <ele>170.9609375</ele>
+      </trkpt>
+      <trkpt lat="50.3978880" lon="5.5351132">
+        <ele>170.6171875</ele>
+      </trkpt>
+      <trkpt lat="50.3981440" lon="5.5353764">
+        <ele>169.5156250</ele>
+      </trkpt>
+      <trkpt lat="50.3981485" lon="5.5353764">
+        <ele>169.4140625</ele>
+      </trkpt>
+      <trkpt lat="50.3981395" lon="5.5357273">
+        <ele>176.0078125</ele>
+      </trkpt>
+      <trkpt lat="50.3981530" lon="5.5357273">
+        <ele>175.7617188</ele>
+      </trkpt>
+      <trkpt lat="50.3986605" lon="5.5367033">
+        <ele>183.3164063</ele>
+      </trkpt>
+      <trkpt lat="50.3986650" lon="5.5367088">
+        <ele>183.3554688</ele>
+      </trkpt>
+      <trkpt lat="50.3995900" lon="5.5381618">
+        <ele>197.2578125</ele>
+      </trkpt>
+      <trkpt lat="50.4000437" lon="5.5385347">
+        <ele>199.1835938</ele>
+      </trkpt>
+      <trkpt lat="50.4006768" lon="5.5388527">
+        <ele>201.0000000</ele>
+      </trkpt>
+      <trkpt lat="50.4006858" lon="5.5388582">
+        <ele>201.0781250</ele>
+      </trkpt>
+      <trkpt lat="50.4009014" lon="5.5391378">
+        <ele>206.7812500</ele>
+      </trkpt>
+      <trkpt lat="50.4012697" lon="5.5391214">
+        <ele>208.9960938</ele>
+      </trkpt>
+      <trkpt lat="50.4015390" lon="5.5388362">
+        <ele>204.7265625</ele>
+      </trkpt>
+      <trkpt lat="50.4017635" lon="5.5387924">
+        <ele>205.4062500</ele>
+      </trkpt>
+      <trkpt lat="50.4017770" lon="5.5387924">
+        <ele>205.5156250</ele>
+      </trkpt>
+      <trkpt lat="50.4024058" lon="5.5388746">
+        <ele>211.2773438</ele>
+      </trkpt>
+      <trkpt lat="50.4027246" lon="5.5391762">
+        <ele>216.1484375</ele>
+      </trkpt>
+      <trkpt lat="50.4034612" lon="5.5389020">
+        <ele>214.9648438</ele>
+      </trkpt>
+      <trkpt lat="50.4036094" lon="5.5379534">
+        <ele>208.6406250</ele>
+      </trkpt>
+      <trkpt lat="50.4037978" lon="5.5370488">
+        <ele>199.5820313</ele>
+      </trkpt>
+      <trkpt lat="50.4043099" lon="5.5367307">
+        <ele>202.1953125</ele>
+      </trkpt>
+      <trkpt lat="50.4047635" lon="5.5360892">
+        <ele>199.3046875</ele>
+      </trkpt>
+      <trkpt lat="50.4053877" lon="5.5350857">
+        <ele>197.9023438</ele>
+      </trkpt>
+      <trkpt lat="50.4054775" lon="5.5345045">
+        <ele>193.6523438</ele>
+      </trkpt>
+      <trkpt lat="50.4052439" lon="5.5334573">
+        <ele>180.2617188</ele>
+      </trkpt>
+      <trkpt lat="50.4053158" lon="5.5330241">
+        <ele>180.0078125</ele>
+      </trkpt>
+      <trkpt lat="50.4051541" lon="5.5316314">
+        <ele>177.3671875</ele>
+      </trkpt>
+      <trkpt lat="50.4052664" lon="5.5312750">
+        <ele>181.6210938</ele>
+      </trkpt>
+      <trkpt lat="50.4049834" lon="5.5309296">
+        <ele>180.8125000</ele>
+      </trkpt>
+      <trkpt lat="50.4047409" lon="5.5308473">
+        <ele>177.1406250</ele>
+      </trkpt>
+      <trkpt lat="50.4047409" lon="5.5308418">
+        <ele>177.2265625</ele>
+      </trkpt>
+      <trkpt lat="50.4040761" lon="5.5300632">
+        <ele>166.2851563</ele>
+      </trkpt>
+      <trkpt lat="50.4040761" lon="5.5300522">
+        <ele>166.4570313</ele>
+      </trkpt>
+      <trkpt lat="50.4039908" lon="5.5290544">
+        <ele>178.2343750</ele>
+      </trkpt>
+      <trkpt lat="50.4038291" lon="5.5283580">
+        <ele>178.2382813</ele>
+      </trkpt>
+      <trkpt lat="50.4034158" lon="5.5277164">
+        <ele>166.0468750</ele>
+      </trkpt>
+      <trkpt lat="50.4034158" lon="5.5277055">
+        <ele>166.1015625</ele>
+      </trkpt>
+      <trkpt lat="50.4035236" lon="5.5269653">
+        <ele>170.2656250</ele>
+      </trkpt>
+      <trkpt lat="50.4037752" lon="5.5262525">
+        <ele>161.4296875</ele>
+      </trkpt>
+      <trkpt lat="50.4031419" lon="5.5261427">
+        <ele>155.5820313</ele>
+      </trkpt>
+      <trkpt lat="50.4031464" lon="5.5261318">
+        <ele>155.6132813</ele>
+      </trkpt>
+      <trkpt lat="50.4036045" lon="5.5256657">
+        <ele>152.8632813</ele>
+      </trkpt>
+      <trkpt lat="50.4030565" lon="5.5255890">
+        <ele>145.2109375</ele>
+      </trkpt>
+      <trkpt lat="50.4033080" lon="5.5252051">
+        <ele>142.2539063</ele>
+      </trkpt>
+      <trkpt lat="50.4032048" lon="5.5249968">
+        <ele>137.3359375</ele>
+      </trkpt>
+      <trkpt lat="50.4032722" lon="5.5246568">
+        <ele>132.5781250</ele>
+      </trkpt>
+      <trkpt lat="50.4030341" lon="5.5247938">
+        <ele>131.7812500</ele>
+      </trkpt>
+      <trkpt lat="50.4027691" lon="5.5250022">
+        <ele>130.5195313</ele>
+      </trkpt>
+      <trkpt lat="50.4025984" lon="5.5250022">
+        <ele>127.7500000</ele>
+      </trkpt>
+      <trkpt lat="50.4025490" lon="5.5248104">
+        <ele>126.4687500</ele>
+      </trkpt>
+      <trkpt lat="50.4025490" lon="5.5248048">
+        <ele>126.4492188</ele>
+      </trkpt>
+      <trkpt lat="50.4026029" lon="5.5244978">
+        <ele>126.6171875</ele>
+      </trkpt>
+      <trkpt lat="50.4024861" lon="5.5240975">
+        <ele>127.0507813</ele>
+      </trkpt>
+      <trkpt lat="50.4023199" lon="5.5233573">
+        <ele>128.8085938</ele>
+      </trkpt>
+      <trkpt lat="50.4021672" lon="5.5227980">
+        <ele>130.7460938</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

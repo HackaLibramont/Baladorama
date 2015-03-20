@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.14.1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2010-01-13T09:02:07Z</time>
+    <bounds maxlat="50.2292640" maxlon="5.3468920" minlat="50.2255730" minlon="5.3408030"/>
+  </metadata>
+
+  <wpt lat="50.2274670" lon="5.3454540">
+    <ele>209.0000000</ele>
+    <name>01Royal Syndicat d’Initiative</name>
+    <cmt>Bienvenue à Marche-en-Famenne ! Une ville entièrement rénovée, où le passé est au service du présent. Idéalement située et riche d’un patrimoine extraordinaire, la ville  se visite tel un livre d’histoire. Commençons par le Royal Syndicat d’Initiative, point d’information touristique abrité dans un bâtiment du 16e siècle particulièrement conservé.</cmt>
+    <desc>Bienvenue à Marche-en-Famenne ! Une ville entièrement rénovée, où le passé est au service du présent. Idéalement située et riche d’un patrimoine extraordinaire, la ville  se visite tel un livre d’histoire. Commençons par le Royal Syndicat d’Initiative, point d’information touristique abrité dans un bâtiment du 16e siècle particulièrement conservé.</desc>
+    <link href="C:/Documents%20and%20Settings/gps/Bureau/GPS/marche_centre_%20gps/son/TOURGUIDE_Marche_1.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2274510" lon="5.3467690">
+    <ele>208.0000000</ele>
+    <name>02La tourelle</name>
+    <cmt>La tourelle représente le tout dernier vestige des fortifications de la ville ! Les remparts, érigés entre le 13e et 14e siècles et détruits par les troupes de Louis XIV au 17e siècle, comptaient 24 tourelles comme celle-ci. Au 19e siècle, elle est transformée en maison d’habitation.</cmt>
+    <desc>La tourelle représente le tout dernier vestige des fortifications de la ville ! Les remparts, érigés entre le 13e et 14e siècles et détruits par les troupes de Louis XIV au 17e siècle, comptaient 24 tourelles comme celle-ci. Au 19e siècle, elle est transformée en maison d’habitation.</desc>
+    <link href="C:/Documents%20and%20Settings/ceo/Bureau/marche_centre_%20gps/son/FR/TOURGUIDE_Marche_2.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2292640" lon="5.3441870">
+    <ele>221.0000000</ele>
+    <name>03Rue Porte-Basse</name>
+    <cmt>En compagnie de Gugusse, personnage du folklore marchois, reposez-vous sur l’emplacement  d’une ancienne porte d’entrée de la ville et observez l’ancien moulin banal  transformé en restaurant. Sur la Place de l’Etang, découvrez la Maison du Tourisme, bâtiment à l’architecture résolument moderne.</cmt>
+    <desc>En compagnie de Gugusse, personnage du folklore marchois, reposez-vous sur l’emplacement  d’une ancienne porte d’entrée de la ville et observez l’ancien moulin banal  transformé en restaurant. Sur la Place de l’Etang, découvrez la Maison du Tourisme, bâtiment à l’architecture résolument moderne.</desc>
+    <link href="C:/Documents%20and%20Settings/gps/Bureau/GPS/marche_centre_%20gps/son/TOURGUIDE_Marche_3.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2284650" lon="5.3442390">
+    <ele>222.0000000</ele>
+    <name>04Rue Dupont : Maison Art nouveau</name>
+    <cmt>Sur votre passage, admirez la Maison Lecomte,  demeure de style art-nouveau réalisée par l’atelier d’architecture de Victor HORTA au début des années 1900.</cmt>
+    <desc>Sur votre passage, admirez la Maison Lecomte,  demeure de style art-nouveau réalisée par l’atelier d’architecture de Victor HORTA au début des années 1900.</desc>
+    <link href="C:/Documents%20and%20Settings/gps/Bureau/GPS/marche_centre_%20gps/son/TOURGUIDE_Marche_4.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2278650" lon="5.3437880">
+    <ele>214.0000000</ele>
+    <name>05Place de l’Eglise</name>
+    <cmt>Sur l’ancienne place du marché, faites connaissance avec le Grand-Georges, hommage rendu par la ville au dernier crieur public de la ville, décédé en 1980. Admirez également l’Eglise Saint-Remacle, édifice de style gothique tardif de la fin du 15e siècle ainsi que la halle aux blés, bâtiment remarquable du 16e siècle.</cmt>
+    <desc>Sur l’ancienne place du marché, faites connaissance avec le Grand-Georges, hommage rendu par la ville au dernier crieur public de la ville, décédé en 1980. Admirez également l’Eglise Saint-Remacle, édifice de style gothique tardif de la fin du 15e siècle ainsi que la halle aux blés, bâtiment remarquable du 16e siècle.</desc>
+    <link href="C:/Documents%20and%20Settings/gps/Bureau/GPS/marche_centre_%20gps/son/TOURGUIDE_Marche_5.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2275730" lon="5.3449910">
+    <ele>212.0000000</ele>
+    <name>06Rue Saint-Laurent et rue des Savoyards</name>
+    <cmt>Flânez dans le vieux Marche et laissez-vous séduire par l’atmosphère qui y règne. La rue dédiée à Saint-Laurent  abrite la statuette du martyr, nichée dans la façade d’une taverne [n°9]. La rue des Savoyards porte, quant à elle, le nom des ramoneurs provenant de Savoie logés au béguinage [n°13].</cmt>
+    <desc>Flânez dans le vieux Marche et laissez-vous séduire par l’atmosphère qui y règne. La rue dédiée à Saint-Laurent  abrite la statuette du martyr, nichée dans la façade d’une taverne [n°9]. La rue des Savoyards porte, quant à elle, le nom des ramoneurs provenant de Savoie logés au béguinage [n°13].</desc>
+    <link href="C:/Documents%20and%20Settings/gps/Bureau/GPS/marche_centre_%20gps/son/TOURGUIDE_Marche_6.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2270550" lon="5.3438310">
+    <ele>227.0000000</ele>
+    <name>07Musée de la Famenne</name>
+    <cmt>Ensemble remarquable des 17e et 18e siècles, ancienne propriété de la famille Jadot de style classique. Les bâtiments abritent aujourd’hui des services communaux et le Musée de la Famenne, qui propose d’aborder différentes thématiques liées  à la vie locale. Découvrez-y une splendide maquette de Marche au 17e siècle !</cmt>
+    <desc>Ensemble remarquable des 17e et 18e siècles, ancienne propriété de la famille Jadot de style classique. Les bâtiments abritent aujourd’hui des services communaux et le Musée de la Famenne, qui propose d’aborder différentes thématiques liées  à la vie locale. Découvrez-y une splendide maquette de Marche au 17e siècle !</desc>
+    <link href="C:/Documents%20and%20Settings/gps/Bureau/GPS/marche_centre_%20gps/son/TOURGUIDE_Marche_7.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2274500" lon="5.3429560">
+    <ele>215.0000000</ele>
+    <name>08Le Manoir</name>
+    <cmt>Superbe demeure  reconstruite après le grand incendie de 1615, transformée au 19e siècle et aménagée en établissement  Ho.Re.Ca, on peut encore y admirer  une remarquable cheminée du 17e siècle et du mobilier de caractère.</cmt>
+    <desc>Superbe demeure  reconstruite après le grand incendie de 1615, transformée au 19e siècle et aménagée en établissement  Ho.Re.Ca, on peut encore y admirer  une remarquable cheminée du 17e siècle et du mobilier de caractère.</desc>
+    <link href="C:/Documents%20and%20Settings/gps/Bureau/GPS/marche_centre_%20gps/son/TOURGUIDE_Marche_8.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2265530" lon="5.3412360">
+    <ele>217.0000000</ele>
+    <name>09aParc van der Straeten</name>
+    <cmt>Superbe domaine de 3 ha acquis par la ville dans les années soixante. Ancienne propriété de la famille Van der Straeten – Waillet, le château devient l’Hôtel de Ville en 1977 et est entièrement rénové en 2003. Le superbe parc invite à la détente grâce à ses nombreux aménagements.</cmt>
+    <desc>Superbe domaine de 3 ha acquis par la ville dans les années soixante. Ancienne propriété de la famille Van der Straeten – Waillet, le château devient l’Hôtel de Ville en 1977 et est entièrement rénové en 2003. Le superbe parc invite à la détente grâce à ses nombreux aménagements.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2260945" lon="5.3408759">
+    <ele>214.0000000</ele>
+    <time>2009-03-17T13:20:15Z</time>
+    <name>09b</name>
+    <cmt>Route Locale</cmt>
+    <desc>Route Locale</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2260076" lon="5.3415618">
+    <ele>214.0000000</ele>
+    <time>2009-03-17T13:23:00Z</time>
+    <name>09c</name>
+    <cmt>Sentier Non Revêtu</cmt>
+    <desc>Sentier Non Revêtu</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2259920" lon="5.3421145">
+    <ele>214.0000000</ele>
+    <time>2009-03-17T13:23:25Z</time>
+    <name>09d</name>
+    <cmt>Marche-En-Famenne</cmt>
+    <desc>Marche-En-Famenne</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2264060" lon="5.3424720">
+    <ele>207.0000000</ele>
+    <name>10Site des Carmes</name>
+    <cmt>Les Carmes s’installent à Marche en 1473 et y fondent un couvent et une brasserie. Après l’incendie de 1615 qui ravage le quartier, les bâtiments sont restaurés et occupés par des brasseurs. En 1977, le site est intégralement restauré et, plus tard, accueille divers services communaux ainsi qu’un espace de formation aux technologies de l’informatique.</cmt>
+    <desc>Les Carmes s’installent à Marche en 1473 et y fondent un couvent et une brasserie. Après l’incendie de 1615 qui ravage le quartier, les bâtiments sont restaurés et occupés par des brasseurs. En 1977, le site est intégralement restauré et, plus tard, accueille divers services communaux ainsi qu’un espace de formation aux technologies de l’informatique.</desc>
+    <link href="C:/Documents%20and%20Settings/gps/Bureau/GPS/marche_centre_%20gps/son/TOURGUIDE_Marche_10.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2255800" lon="5.3445810">
+    <ele>221.0000000</ele>
+    <name>11Place aux Foires</name>
+    <cmt>La place accueille le marché et les festivités. Dans le prolongement de la place, admirez la statue « Loin » de Jean-Michel FOLON (2003) qui apporte un souffle de poésie à l’endroit. En empruntant la rue Porte-Haute, remarquez les deux piliers représentant l’emplacement de l’ancienne porte de la ville.</cmt>
+    <desc>La place accueille le marché et les festivités. Dans le prolongement de la place, admirez la statue « Loin » de Jean-Michel FOLON (2003) qui apporte un souffle de poésie à l’endroit. En empruntant la rue Porte-Haute, remarquez les deux piliers représentant l’emplacement de l’ancienne porte de la ville.</desc>
+    <link href="C:/Documents%20and%20Settings/gps/Bureau/GPS/marche_centre_%20gps/son/TOURGUIDE_Marche_11.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.2275300" lon="5.3449940">
+    <ele>225.0000000</ele>
+    <name>12Quartier Latin</name>
+    <cmt>L’église et le collège jésuite établis  à Marche depuis le 18e siècle ont été transformés en hôtel – brasserie dans les années nonante. Le site constitue un bel exemple de la rénovation urbaine initiée par la ville de Marche dès les années quatre-vingt.</cmt>
+    <desc>L’église et le collège jésuite établis  à Marche depuis le 18e siècle ont été transformés en hôtel – brasserie dans les années nonante. Le site constitue un bel exemple de la rénovation urbaine initiée par la ville de Marche dès les années quatre-vingt.</desc>
+    <link href="C:/Documents%20and%20Settings/gps/Bureau/GPS/marche_centre_%20gps/son/TOURGUIDE_Marche_12.mp3"/>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>Marche_centre_circuit</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="50.2274670" lon="5.3454530">
+        <ele>208.7400000</ele>
+        <time>2009-03-13T09:36:16Z</time>
+      </trkpt>
+      <trkpt lat="50.2274670" lon="5.3454150">
+        <ele>211.6300000</ele>
+        <time>2009-03-13T09:36:43Z</time>
+      </trkpt>
+      <trkpt lat="50.2274630" lon="5.3454470">
+        <ele>215.9500000</ele>
+        <time>2009-03-13T09:37:01Z</time>
+      </trkpt>
+      <trkpt lat="50.2273530" lon="5.3459100">
+        <ele>232.3000000</ele>
+        <time>2009-03-13T09:37:22Z</time>
+      </trkpt>
+      <trkpt lat="50.2273170" lon="5.3459870">
+        <ele>223.1600000</ele>
+        <time>2009-03-13T09:37:30Z</time>
+      </trkpt>
+      <trkpt lat="50.2273090" lon="5.3463170">
+        <ele>219.8000000</ele>
+        <time>2009-03-13T09:37:43Z</time>
+      </trkpt>
+      <trkpt lat="50.2272670" lon="5.3464570">
+        <ele>214.9900000</ele>
+        <time>2009-03-13T09:37:49Z</time>
+      </trkpt>
+      <trkpt lat="50.2272470" lon="5.3466000">
+        <ele>210.1900000</ele>
+        <time>2009-03-13T09:37:55Z</time>
+      </trkpt>
+      <trkpt lat="50.2272970" lon="5.3468560">
+        <ele>204.9000000</ele>
+        <time>2009-03-13T09:38:09Z</time>
+      </trkpt>
+      <trkpt lat="50.2273460" lon="5.3468920">
+        <ele>205.8600000</ele>
+        <time>2009-03-13T09:38:13Z</time>
+      </trkpt>
+      <trkpt lat="50.2274280" lon="5.3468100">
+        <ele>205.8600000</ele>
+        <time>2009-03-13T09:38:24Z</time>
+      </trkpt>
+      <trkpt lat="50.2274850" lon="5.3467790">
+        <ele>208.7400000</ele>
+        <time>2009-03-13T09:38:40Z</time>
+      </trkpt>
+      <trkpt lat="50.2274950" lon="5.3467680">
+        <ele>209.2200000</ele>
+        <time>2009-03-13T09:38:45Z</time>
+      </trkpt>
+      <trkpt lat="50.2275240" lon="5.3467360">
+        <ele>210.6700000</ele>
+        <time>2009-03-13T09:38:49Z</time>
+      </trkpt>
+      <trkpt lat="50.2275500" lon="5.3466860">
+        <ele>211.1500000</ele>
+        <time>2009-03-13T09:38:53Z</time>
+      </trkpt>
+      <trkpt lat="50.2276950" lon="5.3464690">
+        <ele>209.7000000</ele>
+        <time>2009-03-13T09:39:07Z</time>
+      </trkpt>
+      <trkpt lat="50.2278140" lon="5.3463440">
+        <ele>210.6700000</ele>
+        <time>2009-03-13T09:39:17Z</time>
+      </trkpt>
+      <trkpt lat="50.2278970" lon="5.3462200">
+        <ele>212.5900000</ele>
+        <time>2009-03-13T09:39:25Z</time>
+      </trkpt>
+      <trkpt lat="50.2279290" lon="5.3461140">
+        <ele>212.5900000</ele>
+        <time>2009-03-13T09:39:30Z</time>
+      </trkpt>
+      <trkpt lat="50.2279610" lon="5.3460420">
+        <ele>212.5900000</ele>
+        <time>2009-03-13T09:39:34Z</time>
+      </trkpt>
+      <trkpt lat="50.2280370" lon="5.3459640">
+        <ele>210.6700000</ele>
+        <time>2009-03-13T09:39:41Z</time>
+      </trkpt>
+      <trkpt lat="50.2281990" lon="5.3458210">
+        <ele>208.7400000</ele>
+        <time>2009-03-13T09:39:56Z</time>
+      </trkpt>
+      <trkpt lat="50.2283450" lon="5.3454070">
+        <ele>210.6700000</ele>
+        <time>2009-03-13T09:40:17Z</time>
+      </trkpt>
+      <trkpt lat="50.2283730" lon="5.3453750">
+        <ele>209.7000000</ele>
+        <time>2009-03-13T09:40:20Z</time>
+      </trkpt>
+      <trkpt lat="50.2284470" lon="5.3452980">
+        <ele>209.7000000</ele>
+        <time>2009-03-13T09:40:27Z</time>
+      </trkpt>
+      <trkpt lat="50.2286420" lon="5.3450930">
+        <ele>206.3400000</ele>
+        <time>2009-03-13T09:40:45Z</time>
+      </trkpt>
+      <trkpt lat="50.2288650" lon="5.3449280">
+        <ele>209.7000000</ele>
+        <time>2009-03-13T09:41:02Z</time>
+      </trkpt>
+      <trkpt lat="50.2289770" lon="5.3446300">
+        <ele>207.3000000</ele>
+        <time>2009-03-13T09:41:17Z</time>
+      </trkpt>
+      <trkpt lat="50.2290400" lon="5.3445150">
+        <ele>206.3400000</ele>
+        <time>2009-03-13T09:41:24Z</time>
+      </trkpt>
+      <trkpt lat="50.2292160" lon="5.3442680">
+        <ele>207.3000000</ele>
+        <time>2009-03-13T09:41:41Z</time>
+      </trkpt>
+      <trkpt lat="50.2292520" lon="5.3441810">
+        <ele>211.6300000</ele>
+        <time>2009-03-13T09:41:52Z</time>
+      </trkpt>
+      <trkpt lat="50.2292270" lon="5.3440990">
+        <ele>224.6100000</ele>
+        <time>2009-03-13T09:42:16Z</time>
+      </trkpt>
+      <trkpt lat="50.2292310" lon="5.3441190">
+        <ele>224.6100000</ele>
+        <time>2009-03-13T09:42:17Z</time>
+      </trkpt>
+      <trkpt lat="50.2292190" lon="5.3441630">
+        <ele>223.6400000</ele>
+        <time>2009-03-13T09:42:21Z</time>
+      </trkpt>
+      <trkpt lat="50.2290150" lon="5.3441040">
+        <ele>222.2000000</ele>
+        <time>2009-03-13T09:42:38Z</time>
+      </trkpt>
+      <trkpt lat="50.2287800" lon="5.3441790">
+        <ele>216.9100000</ele>
+        <time>2009-03-13T09:42:55Z</time>
+      </trkpt>
+      <trkpt lat="50.2287500" lon="5.3441630">
+        <ele>216.4300000</ele>
+        <time>2009-03-13T09:43:53Z</time>
+      </trkpt>
+      <trkpt lat="50.2286830" lon="5.3442600">
+        <ele>218.3600000</ele>
+        <time>2009-03-13T09:44:32Z</time>
+      </trkpt>
+      <trkpt lat="50.2285110" lon="5.3443270">
+        <ele>231.3300000</ele>
+        <time>2009-03-13T09:44:45Z</time>
+      </trkpt>
+      <trkpt lat="50.2284720" lon="5.3442950">
+        <ele>229.8900000</ele>
+        <time>2009-03-13T09:44:53Z</time>
+      </trkpt>
+      <trkpt lat="50.2284500" lon="5.3442950">
+        <ele>223.1600000</ele>
+        <time>2009-03-13T09:45:11Z</time>
+      </trkpt>
+      <trkpt lat="50.2284580" lon="5.3442520">
+        <ele>221.7200000</ele>
+        <time>2009-03-13T09:45:42Z</time>
+      </trkpt>
+      <trkpt lat="50.2284790" lon="5.3443300">
+        <ele>227.9700000</ele>
+        <time>2009-03-13T09:45:55Z</time>
+      </trkpt>
+      <trkpt lat="50.2284750" lon="5.3443360">
+        <ele>227.9700000</ele>
+        <time>2009-03-13T09:45:57Z</time>
+      </trkpt>
+      <trkpt lat="50.2283120" lon="5.3443880">
+        <ele>226.5300000</ele>
+        <time>2009-03-13T09:46:10Z</time>
+      </trkpt>
+      <trkpt lat="50.2282640" lon="5.3443200">
+        <ele>227.4900000</ele>
+        <time>2009-03-13T09:46:14Z</time>
+      </trkpt>
+      <trkpt lat="50.2281560" lon="5.3440080">
+        <ele>222.2000000</ele>
+        <time>2009-03-13T09:46:30Z</time>
+      </trkpt>
+      <trkpt lat="50.2279220" lon="5.3437590">
+        <ele>222.6800000</ele>
+        <time>2009-03-13T09:46:50Z</time>
+      </trkpt>
+      <trkpt lat="50.2278580" lon="5.3437860">
+        <ele>215.9500000</ele>
+        <time>2009-03-13T09:47:07Z</time>
+      </trkpt>
+      <trkpt lat="50.2277860" lon="5.3438950">
+        <ele>214.0300000</ele>
+        <time>2009-03-13T09:47:30Z</time>
+      </trkpt>
+      <trkpt lat="50.2276960" lon="5.3441690">
+        <ele>217.8800000</ele>
+        <time>2009-03-13T09:47:44Z</time>
+      </trkpt>
+      <trkpt lat="50.2276730" lon="5.3442620">
+        <ele>215.9500000</ele>
+        <time>2009-03-13T09:47:50Z</time>
+      </trkpt>
+      <trkpt lat="50.2276530" lon="5.3443010">
+        <ele>214.9900000</ele>
+        <time>2009-03-13T09:47:53Z</time>
+      </trkpt>
+      <trkpt lat="50.2276300" lon="5.3443880">
+        <ele>214.0300000</ele>
+        <time>2009-03-13T09:47:59Z</time>
+      </trkpt>
+      <trkpt lat="50.2275660" lon="5.3446490">
+        <ele>209.7000000</ele>
+        <time>2009-03-13T09:48:13Z</time>
+      </trkpt>
+      <trkpt lat="50.2275830" lon="5.3448390">
+        <ele>211.6300000</ele>
+        <time>2009-03-13T09:48:30Z</time>
+      </trkpt>
+      <trkpt lat="50.2275730" lon="5.3449930">
+        <ele>211.6300000</ele>
+        <time>2009-03-13T09:48:46Z</time>
+      </trkpt>
+      <trkpt lat="50.2275590" lon="5.3450050">
+        <ele>213.5500000</ele>
+        <time>2009-03-13T09:48:55Z</time>
+      </trkpt>
+      <trkpt lat="50.2274440" lon="5.3450230">
+        <ele>213.0700000</ele>
+        <time>2009-03-13T09:49:03Z</time>
+      </trkpt>
+      <trkpt lat="50.2273760" lon="5.3450220">
+        <ele>215.4700000</ele>
+        <time>2009-03-13T09:49:07Z</time>
+      </trkpt>
+      <trkpt lat="50.2270900" lon="5.3449770">
+        <ele>215.4700000</ele>
+        <time>2009-03-13T09:49:24Z</time>
+      </trkpt>
+      <trkpt lat="50.2269500" lon="5.3449040">
+        <ele>220.2800000</ele>
+        <time>2009-03-13T09:49:34Z</time>
+      </trkpt>
+      <trkpt lat="50.2270360" lon="5.3443060">
+        <ele>217.8800000</ele>
+        <time>2009-03-13T09:49:59Z</time>
+      </trkpt>
+      <trkpt lat="50.2270860" lon="5.3439080">
+        <ele>218.8400000</ele>
+        <time>2009-03-13T09:50:18Z</time>
+      </trkpt>
+      <trkpt lat="50.2270620" lon="5.3438110">
+        <ele>227.9700000</ele>
+        <time>2009-03-13T09:50:51Z</time>
+      </trkpt>
+      <trkpt lat="50.2270620" lon="5.3438000">
+        <ele>229.4100000</ele>
+        <time>2009-03-13T09:51:09Z</time>
+      </trkpt>
+      <trkpt lat="50.2271380" lon="5.3435940">
+        <ele>227.0100000</ele>
+        <time>2009-03-13T09:51:26Z</time>
+      </trkpt>
+      <trkpt lat="50.2271960" lon="5.3435430">
+        <ele>226.5300000</ele>
+        <time>2009-03-13T09:51:31Z</time>
+      </trkpt>
+      <trkpt lat="50.2272670" lon="5.3435050">
+        <ele>226.0500000</ele>
+        <time>2009-03-13T09:51:43Z</time>
+      </trkpt>
+      <trkpt lat="50.2272500" lon="5.3433470">
+        <ele>219.3200000</ele>
+        <time>2009-03-13T09:51:51Z</time>
+      </trkpt>
+      <trkpt lat="50.2272920" lon="5.3433110">
+        <ele>218.8400000</ele>
+        <time>2009-03-13T09:51:55Z</time>
+      </trkpt>
+      <trkpt lat="50.2273320" lon="5.3432120">
+        <ele>220.7600000</ele>
+        <time>2009-03-13T09:52:00Z</time>
+      </trkpt>
+      <trkpt lat="50.2274040" lon="5.3429860">
+        <ele>217.8800000</ele>
+        <time>2009-03-13T09:52:15Z</time>
+      </trkpt>
+      <trkpt lat="50.2274350" lon="5.3429570">
+        <ele>213.5500000</ele>
+        <time>2009-03-13T09:52:31Z</time>
+      </trkpt>
+      <trkpt lat="50.2274390" lon="5.3429410">
+        <ele>216.9100000</ele>
+        <time>2009-03-13T09:53:01Z</time>
+      </trkpt>
+      <trkpt lat="50.2274150" lon="5.3429260">
+        <ele>218.8400000</ele>
+        <time>2009-03-13T09:53:15Z</time>
+      </trkpt>
+      <trkpt lat="50.2274190" lon="5.3427110">
+        <ele>215.9500000</ele>
+        <time>2009-03-13T09:53:26Z</time>
+      </trkpt>
+      <trkpt lat="50.2274150" lon="5.3426110">
+        <ele>214.0300000</ele>
+        <time>2009-03-13T09:53:31Z</time>
+      </trkpt>
+      <trkpt lat="50.2273410" lon="5.3424930">
+        <ele>212.1100000</ele>
+        <time>2009-03-13T09:53:41Z</time>
+      </trkpt>
+      <trkpt lat="50.2273680" lon="5.3424410">
+        <ele>210.6700000</ele>
+        <time>2009-03-13T09:53:45Z</time>
+      </trkpt>
+      <trkpt lat="50.2274090" lon="5.3423390">
+        <ele>210.1900000</ele>
+        <time>2009-03-13T09:53:51Z</time>
+      </trkpt>
+      <trkpt lat="50.2273430" lon="5.3422330">
+        <ele>209.2200000</ele>
+        <time>2009-03-13T09:53:58Z</time>
+      </trkpt>
+      <trkpt lat="50.2271290" lon="5.3419760">
+        <ele>208.7400000</ele>
+        <time>2009-03-13T09:54:16Z</time>
+      </trkpt>
+      <trkpt lat="50.2269660" lon="5.3417940">
+        <ele>208.7400000</ele>
+        <time>2009-03-13T09:54:30Z</time>
+      </trkpt>
+      <trkpt lat="50.2269240" lon="5.3417370">
+        <ele>208.7400000</ele>
+        <time>2009-03-13T09:54:34Z</time>
+      </trkpt>
+      <trkpt lat="50.2266930" lon="5.3414470">
+        <ele>211.1500000</ele>
+        <time>2009-03-13T09:54:55Z</time>
+      </trkpt>
+      <trkpt lat="50.2265170" lon="5.3412100">
+        <ele>213.0700000</ele>
+        <time>2009-03-13T09:55:13Z</time>
+      </trkpt>
+      <trkpt lat="50.2265280" lon="5.3412400">
+        <ele>214.5100000</ele>
+        <time>2009-03-13T09:55:30Z</time>
+      </trkpt>
+      <trkpt lat="50.2265500" lon="5.3412530">
+        <ele>216.4300000</ele>
+        <time>2009-03-13T09:55:55Z</time>
+      </trkpt>
+      <trkpt lat="50.2265490" lon="5.3412320">
+        <ele>216.9100000</ele>
+        <time>2009-03-13T09:56:15Z</time>
+      </trkpt>
+      <trkpt lat="50.2264630" lon="5.3411310">
+        <ele>214.9900000</ele>
+        <time>2009-03-13T09:56:30Z</time>
+      </trkpt>
+      <trkpt lat="50.2263900" lon="5.3410510">
+        <ele>213.5500000</ele>
+        <time>2009-03-13T09:56:37Z</time>
+      </trkpt>
+      <trkpt lat="50.2263230" lon="5.3409960">
+        <ele>212.1100000</ele>
+        <time>2009-03-13T09:56:42Z</time>
+      </trkpt>
+      <trkpt lat="50.2261490" lon="5.3408030">
+        <ele>211.6300000</ele>
+        <time>2009-03-13T09:56:55Z</time>
+      </trkpt>
+      <trkpt lat="50.2261060" lon="5.3408600">
+        <ele>214.0300000</ele>
+        <time>2009-03-13T09:57:09Z</time>
+      </trkpt>
+      <trkpt lat="50.2261140" lon="5.3412020">
+        <ele>214.9900000</ele>
+        <time>2009-03-13T09:57:25Z</time>
+      </trkpt>
+      <trkpt lat="50.2260110" lon="5.3415650">
+        <ele>211.6300000</ele>
+        <time>2009-03-13T09:57:43Z</time>
+      </trkpt>
+      <trkpt lat="50.2259550" lon="5.3419580">
+        <ele>209.7000000</ele>
+        <time>2009-03-13T09:58:02Z</time>
+      </trkpt>
+      <trkpt lat="50.2260380" lon="5.3422660">
+        <ele>211.1500000</ele>
+        <time>2009-03-13T09:58:20Z</time>
+      </trkpt>
+      <trkpt lat="50.2260580" lon="5.3423020">
+        <ele>212.1100000</ele>
+        <time>2009-03-13T09:58:24Z</time>
+      </trkpt>
+      <trkpt lat="50.2260470" lon="5.3423710">
+        <ele>212.1100000</ele>
+        <time>2009-03-13T09:58:29Z</time>
+      </trkpt>
+      <trkpt lat="50.2261320" lon="5.3423610">
+        <ele>212.1100000</ele>
+        <time>2009-03-13T09:58:37Z</time>
+      </trkpt>
+      <trkpt lat="50.2262990" lon="5.3419980">
+        <ele>209.7000000</ele>
+        <time>2009-03-13T09:59:00Z</time>
+      </trkpt>
+      <trkpt lat="50.2264420" lon="5.3416840">
+        <ele>210.6700000</ele>
+        <time>2009-03-13T09:59:18Z</time>
+      </trkpt>
+      <trkpt lat="50.2264700" lon="5.3416730">
+        <ele>210.6700000</ele>
+        <time>2009-03-13T09:59:21Z</time>
+      </trkpt>
+      <trkpt lat="50.2265150" lon="5.3415810">
+        <ele>209.7000000</ele>
+        <time>2009-03-13T09:59:28Z</time>
+      </trkpt>
+      <trkpt lat="50.2266370" lon="5.3418540">
+        <ele>207.7800000</ele>
+        <time>2009-03-13T09:59:43Z</time>
+      </trkpt>
+      <trkpt lat="50.2267700" lon="5.3419660">
+        <ele>206.8200000</ele>
+        <time>2009-03-13T09:59:55Z</time>
+      </trkpt>
+      <trkpt lat="50.2267230" lon="5.3422330">
+        <ele>206.8200000</ele>
+        <time>2009-03-13T10:00:12Z</time>
+      </trkpt>
+      <trkpt lat="50.2264640" lon="5.3425520">
+        <ele>207.3000000</ele>
+        <time>2009-03-13T10:00:33Z</time>
+      </trkpt>
+      <trkpt lat="50.2264370" lon="5.3425390">
+        <ele>207.3000000</ele>
+        <time>2009-03-13T10:00:35Z</time>
+      </trkpt>
+      <trkpt lat="50.2264090" lon="5.3424740">
+        <ele>207.3000000</ele>
+        <time>2009-03-13T10:00:52Z</time>
+      </trkpt>
+      <trkpt lat="50.2264210" lon="5.3424830">
+        <ele>208.2600000</ele>
+        <time>2009-03-13T10:01:14Z</time>
+      </trkpt>
+      <trkpt lat="50.2264080" lon="5.3425690">
+        <ele>208.7400000</ele>
+        <time>2009-03-13T10:01:19Z</time>
+      </trkpt>
+      <trkpt lat="50.2262490" lon="5.3429090">
+        <ele>210.1900000</ele>
+        <time>2009-03-13T10:01:38Z</time>
+      </trkpt>
+      <trkpt lat="50.2262400" lon="5.3430400">
+        <ele>209.7000000</ele>
+        <time>2009-03-13T10:01:45Z</time>
+      </trkpt>
+      <trkpt lat="50.2264220" lon="5.3431960">
+        <ele>209.2200000</ele>
+        <time>2009-03-13T10:02:03Z</time>
+      </trkpt>
+      <trkpt lat="50.2264840" lon="5.3431060">
+        <ele>211.1500000</ele>
+        <time>2009-03-13T10:02:09Z</time>
+      </trkpt>
+      <trkpt lat="50.2265370" lon="5.3431150">
+        <ele>211.1500000</ele>
+        <time>2009-03-13T10:02:13Z</time>
+      </trkpt>
+      <trkpt lat="50.2265340" lon="5.3431750">
+        <ele>210.6700000</ele>
+        <time>2009-03-13T10:02:17Z</time>
+      </trkpt>
+      <trkpt lat="50.2263730" lon="5.3434410">
+        <ele>207.7800000</ele>
+        <time>2009-03-13T10:02:37Z</time>
+      </trkpt>
+      <trkpt lat="50.2262390" lon="5.3437480">
+        <ele>209.2200000</ele>
+        <time>2009-03-13T10:02:55Z</time>
+      </trkpt>
+      <trkpt lat="50.2261460" lon="5.3438650">
+        <ele>212.1100000</ele>
+        <time>2009-03-13T10:03:08Z</time>
+      </trkpt>
+      <trkpt lat="50.2260360" lon="5.3438230">
+        <ele>214.5100000</ele>
+        <time>2009-03-13T10:03:17Z</time>
+      </trkpt>
+      <trkpt lat="50.2259370" lon="5.3441240">
+        <ele>226.5300000</ele>
+        <time>2009-03-13T10:03:32Z</time>
+      </trkpt>
+      <trkpt lat="50.2258510" lon="5.3444370">
+        <ele>237.5800000</ele>
+        <time>2009-03-13T10:03:48Z</time>
+      </trkpt>
+      <trkpt lat="50.2258410" lon="5.3445120">
+        <ele>232.7800000</ele>
+        <time>2009-03-13T10:03:53Z</time>
+      </trkpt>
+      <trkpt lat="50.2257180" lon="5.3446330">
+        <ele>226.0500000</ele>
+        <time>2009-03-13T10:04:09Z</time>
+      </trkpt>
+      <trkpt lat="50.2255810" lon="5.3445800">
+        <ele>221.2400000</ele>
+        <time>2009-03-13T10:04:29Z</time>
+      </trkpt>
+      <trkpt lat="50.2255730" lon="5.3445810">
+        <ele>222.2000000</ele>
+        <time>2009-03-13T10:04:47Z</time>
+      </trkpt>
+      <trkpt lat="50.2256630" lon="5.3449020">
+        <ele>220.7600000</ele>
+        <time>2009-03-13T10:05:03Z</time>
+      </trkpt>
+      <trkpt lat="50.2256860" lon="5.3449340">
+        <ele>221.2400000</ele>
+        <time>2009-03-13T10:05:06Z</time>
+      </trkpt>
+      <trkpt lat="50.2257420" lon="5.3449380">
+        <ele>221.7200000</ele>
+        <time>2009-03-13T10:05:10Z</time>
+      </trkpt>
+      <trkpt lat="50.2259170" lon="5.3447620">
+        <ele>222.2000000</ele>
+        <time>2009-03-13T10:05:29Z</time>
+      </trkpt>
+      <trkpt lat="50.2259540" lon="5.3447330">
+        <ele>226.0500000</ele>
+        <time>2009-03-13T10:05:34Z</time>
+      </trkpt>
+      <trkpt lat="50.2260420" lon="5.3448540">
+        <ele>227.4900000</ele>
+        <time>2009-03-13T10:05:43Z</time>
+      </trkpt>
+      <trkpt lat="50.2262070" lon="5.3449670">
+        <ele>224.6100000</ele>
+        <time>2009-03-13T10:05:57Z</time>
+      </trkpt>
+      <trkpt lat="50.2262260" lon="5.3449650">
+        <ele>226.5300000</ele>
+        <time>2009-03-13T10:06:01Z</time>
+      </trkpt>
+      <trkpt lat="50.2264420" lon="5.3450570">
+        <ele>227.4900000</ele>
+        <time>2009-03-13T10:06:18Z</time>
+      </trkpt>
+      <trkpt lat="50.2266360" lon="5.3452610">
+        <ele>226.5300000</ele>
+        <time>2009-03-13T10:06:33Z</time>
+      </trkpt>
+      <trkpt lat="50.2266690" lon="5.3453040">
+        <ele>223.6400000</ele>
+        <time>2009-03-13T10:06:44Z</time>
+      </trkpt>
+      <trkpt lat="50.2267020" lon="5.3452630">
+        <ele>222.6800000</ele>
+        <time>2009-03-13T10:06:48Z</time>
+      </trkpt>
+      <trkpt lat="50.2268940" lon="5.3449590">
+        <ele>217.8800000</ele>
+        <time>2009-03-13T10:07:10Z</time>
+      </trkpt>
+      <trkpt lat="50.2269150" lon="5.3448940">
+        <ele>219.3200000</ele>
+        <time>2009-03-13T10:07:13Z</time>
+      </trkpt>
+      <trkpt lat="50.2269760" lon="5.3448700">
+        <ele>219.8000000</ele>
+        <time>2009-03-13T10:07:18Z</time>
+      </trkpt>
+      <trkpt lat="50.2272170" lon="5.3448980">
+        <ele>223.6400000</ele>
+        <time>2009-03-13T10:07:34Z</time>
+      </trkpt>
+      <trkpt lat="50.2273630" lon="5.3449420">
+        <ele>228.4500000</ele>
+        <time>2009-03-13T10:07:43Z</time>
+      </trkpt>
+      <trkpt lat="50.2275150" lon="5.3449790">
+        <ele>227.9700000</ele>
+        <time>2009-03-13T10:07:56Z</time>
+      </trkpt>
+      <trkpt lat="50.2275450" lon="5.3450280">
+        <ele>222.2000000</ele>
+        <time>2009-03-13T10:08:15Z</time>
+      </trkpt>
+      <trkpt lat="50.2275510" lon="5.3450890">
+        <ele>221.2400000</ele>
+        <time>2009-03-13T10:08:25Z</time>
+      </trkpt>
+      <trkpt lat="50.2275920" lon="5.3453170">
+        <ele>221.2400000</ele>
+        <time>2009-03-13T10:08:39Z</time>
+      </trkpt>
+      <trkpt lat="50.2276710" lon="5.3453290">
+        <ele>230.8500000</ele>
+        <time>2009-03-13T10:09:09Z</time>
+      </trkpt>
+      <trkpt lat="50.2274670" lon="5.3454530">
+        <ele>208.7400000</ele>
+        <time>2009-03-13T09:36:16Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

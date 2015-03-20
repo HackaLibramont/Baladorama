@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1" creator="Pythagoras Topo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<time>2013-11-16T22:59:12Z</time>
+</metadata>
+<trk>
+<name>HanWellin</name>
+<src>Pythagoras Topo</src>
+<number>1</number>
+<trkseg>
+<trkpt lat="50.12556829143741765009" lon="5.18735688883818912103">
+<ele>152.03</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12568209140400909362" lon="5.18664298904494280124">
+<ele>150.58</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12563859141508259498" lon="5.18658488906177605288">
+<ele>153.95</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12550219145727225468" lon="5.18654268907395276473">
+<ele>149.14</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12547889146173218322" lon="5.18652908907790521171">
+<ele>153.95</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12544619147359269918" lon="5.18651048908326827531">
+<ele>149.14</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12543559147325566373" lon="5.18650498908489154077">
+<ele>156.35</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12542589147810900231" lon="5.18649918908654505118">
+<ele>152.03</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12537939148985798810" lon="5.18646178909738963343">
+<ele>155.87</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12531639151013961810" lon="5.18645438909950495061">
+<ele>152.03</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12524989153045850644" lon="5.18618308917804781518">
+<ele>149.62</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12524749152882463323" lon="5.18616508918328199915">
+<ele>154.43</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12516109155465215354" lon="5.18602988922241258483">
+<ele>152.99</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12474159167922493298" lon="5.18699698894227356020">
+<ele>151.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12338839207419737781" lon="5.18603708922002581236">
+<ele>151.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12324229211694159253" lon="5.18603138922165118150">
+<ele>151.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12325859211228617446" lon="5.18592048925376580089">
+<ele>151.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12321819212410644545" lon="5.18592268925312360013">
+<ele>151.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12266419228705415740" lon="5.18826808857385034882">
+<ele>154.91</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12234989238024240273" lon="5.18891088838764157710">
+<ele>153.95</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12178979254772314640" lon="5.19227758741259658810">
+<ele>154.43</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12184629253126643640" lon="5.19256488732941078684">
+<ele>154.91</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12238209237618490839" lon="5.19386898695184927944">
+<ele>154.43</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12251119233867768195" lon="5.19412368687811198201">
+<ele>154.43</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12284029224283443076" lon="5.19454378675651361831">
+<ele>154.43</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12297589220324311403" lon="5.19461618673556823423">
+<ele>154.43</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12336949208807367844" lon="5.19464518672723850968">
+<ele>154.43</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12346369206040463345" lon="5.19473798670038177461">
+<ele>154.91</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12402809189494944880" lon="5.19450948676664480487">
+<ele>154.91</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12443909177433453653" lon="5.19446928677835639078">
+<ele>155.39</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12453029174721307828" lon="5.19447648677629202708">
+<ele>156.35</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12484769165456554519" lon="5.19472058670565938554">
+<ele>156.35</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12525319153500191151" lon="5.19429108683010731042">
+<ele>157.31</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12604319130406337835" lon="5.19417138686489642610">
+<ele>156.35</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12637739120626178489" lon="5.19418798686014681423">
+<ele>156.35</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12654779115529634579" lon="5.19399948691477052832">
+<ele>158.27</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12689699105354179050" lon="5.19401188691123216005">
+<ele>157.31</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12743179089432032310" lon="5.19385428695698435987">
+<ele>162.60</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12778889079125831879" lon="5.19391538693933795613">
+<ele>159.72</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12800669072698411196" lon="5.19404788690101070573">
+<ele>161.16</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12821209066526505989" lon="5.19402528690760689004">
+<ele>164.52</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12842149060335827310" lon="5.19412248687950039242">
+<ele>165.96</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12861169054888676393" lon="5.19437108680753211544">
+<ele>164.04</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12919699037978914995" lon="5.19489818665497437377">
+<ele>160.68</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12966109024336702140" lon="5.19479338668540612600">
+<ele>161.64</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13001499013795125229" lon="5.19478008668932921621">
+<ele>165.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13044089001586910916" lon="5.19523358655805810669">
+<ele>161.16</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13068148994490513193" lon="5.19534508652581727217">
+<ele>162.60</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13101818984466717045" lon="5.19526728654841995292">
+<ele>165.96</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13100648984921291974" lon="5.19543938649856861599">
+<ele>164.04</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13108008982857909875" lon="5.19566168643419955895">
+<ele>162.60</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13127538977204266590" lon="5.19580308639327802875">
+<ele>161.64</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13176388962648388146" lon="5.19576648640398274590">
+<ele>166.93</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13194568957360530078" lon="5.19584698638069752216">
+<ele>166.45</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13221538949372301717" lon="5.19579908639462483630">
+<ele>168.37</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13228878947281685272" lon="5.19589928636561725691">
+<ele>167.41</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13246858941934646567" lon="5.19596218634744032935">
+<ele>169.33</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13268888935481725695" lon="5.19611938630195701404">
+<ele>169.81</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13297328927084350253" lon="5.19648668619564889989">
+<ele>172.21</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13297928927105572766" lon="5.19703078603807621458">
+<ele>169.33</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13312438922854851683" lon="5.19741148592786127787">
+<ele>170.29</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13311428923436351909" lon="5.19788708579010715686">
+<ele>165.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13326908919034252050" lon="5.19863088557473584165">
+<ele>164.52</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13313558923209000625" lon="5.19957788530046637677">
+<ele>161.16</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13313508923148730730" lon="5.19993358519746972435">
+<ele>163.56</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13307848924866049686" lon="5.20029738509210924799">
+<ele>163.08</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13294598928838751645" lon="5.20052948502486599433">
+<ele>161.64</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13289858930295394485" lon="5.20132888479337117667">
+<ele>162.12</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13296138928414790653" lon="5.20178038466264157640">
+<ele>164.04</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13274428934651893371" lon="5.20217158454933946693">
+<ele>167.41</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13268068936414322763" lon="5.20255068443956057981">
+<ele>170.29</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13277638933529089455" lon="5.20279878436774011465">
+<ele>172.69</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13295258928196317866" lon="5.20287618434537612035">
+<ele>176.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13309258924295618783" lon="5.20360958413300432869">
+<ele>174.14</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13331478917668703672" lon="5.20414438397819444350">
+<ele>177.98</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13338828915424726857" lon="5.20414458397815770087">
+<ele>179.90</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13299928927030890063" lon="5.20388188405414097148">
+<ele>174.62</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13269048936225402087" lon="5.20381008407486510537">
+<ele>171.25</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13246508943005607592" lon="5.20380978407489801485">
+<ele>167.41</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13225268949209833467" lon="5.20390678404677763369">
+<ele>167.89</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13170088965618730812" lon="5.20396708402919559988">
+<ele>162.60</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13145658972752016157" lon="5.20464868383178645971">
+<ele>164.52</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13099388986345416529" lon="5.20549628358626302868">
+<ele>165.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13099328986357505132" lon="5.20568248353234607192">
+<ele>165.96</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13108668983704773670" lon="5.20597408344791289221">
+<ele>165.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13096598987252149814" lon="5.20630148335309071980">
+<ele>165.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.13006609013883973439" lon="5.20791838288470819698">
+<ele>163.08</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12894789046674758829" lon="5.20952468241938059213">
+<ele>165.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12875809052301433958" lon="5.21018128222921194070">
+<ele>165.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12853239058895126684" lon="5.21047198214500005807">
+<ele>166.45</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12850149059809012281" lon="5.21053638212634772063">
+<ele>166.45</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12854529058500929133" lon="5.21055618212061765180">
+<ele>166.93</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12848119060388540285" lon="5.21046168214797676941">
+<ele>166.45</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12813249070538290038" lon="5.21053168212765259713">
+<ele>167.89</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12799249074650730856" lon="5.21070158207843102647">
+<ele>167.89</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12787199078178445527" lon="5.21114528194992753216">
+<ele>168.85</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12764929084661957244" lon="5.21166248180013446074">
+<ele>170.77</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12767499083875576910" lon="5.21175478177340688574">
+<ele>171.73</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12759859086107638244" lon="5.21212238166695572801">
+<ele>172.69</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12744719090535738200" lon="5.21252998154890166943">
+<ele>173.66</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12710049100667219433" lon="5.21258978153152517903">
+<ele>174.14</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12686759107402422682" lon="5.21272318149286738558">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12660649114756949372" lon="5.21276328148124344890">
+<ele>182.31</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12603869131000777160" lon="5.21294708142796102660">
+<ele>190.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12599999132124394761" lon="5.21308198138889532485">
+<ele>190.96</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12580179137670199295" lon="5.21343868128559860790">
+<ele>197.21</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12563359142385621070" lon="5.21344648128333342211">
+<ele>201.53</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12573979139235546497" lon="5.21304178140054473828">
+<ele>201.53</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12575619138558379816" lon="5.21293068143273429197">
+<ele>205.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12564869141550615794" lon="5.21298548141686256510">
+<ele>208.74</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12563379141924712556" lon="5.21285288145526503027">
+<ele>209.70</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12572849139055363665" lon="5.21238308159132744918">
+<ele>210.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12562539142014372217" lon="5.21226698162493738948">
+<ele>211.63</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12530299151206491461" lon="5.21234018160371269630">
+<ele>216.91</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12522389153647849826" lon="5.21160878181547458894">
+<ele>212.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12518489154762590334" lon="5.21176938176896696859">
+<ele>213.55</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12524099153112899176" lon="5.21168598179312779734">
+<ele>213.55</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12501709159519691031" lon="5.21145728185932898243">
+<ele>215.95</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12492739161991294695" lon="5.21148758185055170885">
+<ele>219.32</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12477579166220208963" lon="5.21130308190397250032">
+<ele>223.16</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12469909168395786837" lon="5.21128378190955919821">
+<ele>224.61</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12455709172392914143" lon="5.21108418196734656223">
+<ele>227.49</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12450029174085130382" lon="5.21116158194492305997">
+<ele>227.01</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12402329186938487131" lon="5.21048098214202769472">
+<ele>248.64</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12399429187613719096" lon="5.21036498217563347456">
+<ele>252.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12367719196844716937" lon="5.21010828224991583402">
+<ele>252.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12353519200916451231" lon="5.21040938216271330962">
+<ele>254.89</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12354289200648337859" lon="5.21062438210046606744">
+<ele>256.33</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12363129198035238081" lon="5.21081148204630116824">
+<ele>257.29</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12355749200314391449" lon="5.21040528216389996462">
+<ele>253.93</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12364919197529644028" lon="5.21079568205087627605">
+<ele>256.81</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12363189197975543114" lon="5.21105438197597069492">
+<ele>258.73</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12369529196012506948" lon="5.21131278190116730117">
+<ele>261.62</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12365589196961934097" lon="5.21240388158523603152">
+<ele>268.35</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12376729193621826500" lon="5.21293318143198812745">
+<ele>271.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12370879195370320606" lon="5.21323658134412503100">
+<ele>271.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12380569192595913211" lon="5.21360388123777517247">
+<ele>270.75</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12387949190458868390" lon="5.21359938123909126797">
+<ele>270.27</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12379469192979541351" lon="5.21374558119674079672">
+<ele>269.79</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12388169190393227228" lon="5.21421828105988004434">
+<ele>271.71</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12384499191494313056" lon="5.21444728099356157282">
+<ele>271.71</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12404399185746938732" lon="5.21492858085421316893">
+<ele>271.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12414949182710443513" lon="5.21539428071938003761">
+<ele>271.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12417989181919608048" lon="5.21592468056578882870">
+<ele>270.27</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12412249183646650257" lon="5.21610858051252445043">
+<ele>269.79</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12416539182480334451" lon="5.21610088051475350134">
+<ele>267.86</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12390599190325701176" lon="5.21629668045798843243">
+<ele>263.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12333689207389397174" lon="5.21646228040990232974">
+<ele>254.89</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12316529212495196894" lon="5.21658258037502430245">
+<ele>253.44</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12222129240074507913" lon="5.21697508026121957686">
+<ele>255.37</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12125709268072170598" lon="5.21768328005601577063">
+<ele>261.62</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12075709282600399173" lon="5.21798157996956656305">
+<ele>264.50</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12071909283729808603" lon="5.21794027998152108964">
+<ele>264.02</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12052359289416613674" lon="5.21845087983363508059">
+<ele>265.94</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12047779290694648435" lon="5.21895667968717357167">
+<ele>268.35</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12061909286455118572" lon="5.21922437960969530749">
+<ele>271.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12074859282714810969" lon="5.21987547942117390232">
+<ele>271.71</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12108599272826835968" lon="5.22042827926116447213">
+<ele>273.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12160459257673749642" lon="5.22167937889897436584">
+<ele>275.56</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12158899258156451958" lon="5.22277427858192398962">
+<ele>277.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12166619255791743478" lon="5.22329797843030706422">
+<ele>280.84</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12166359255745361986" lon="5.22445557809512094396">
+<ele>286.13</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12197039246667883922" lon="5.22611497761468423107">
+<ele>291.90</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12184399250282495438" lon="5.22681747741125500791">
+<ele>295.26</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12171919254065243728" lon="5.22801667706398197562">
+<ele>295.26</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12173179253807119801" lon="5.22883847682601209320">
+<ele>294.78</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12179729252039094796" lon="5.22934887667821967020">
+<ele>292.86</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12202659245443924727" lon="5.23020287643096536348">
+<ele>292.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12226809238309498903" lon="5.23086237624004189927">
+<ele>295.26</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12225859238424873717" lon="5.23083077624920721393">
+<ele>298.63</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12229259237636824161" lon="5.23105637618387307942">
+<ele>294.78</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12226019238664775309" lon="5.23115467615539485525">
+<ele>293.34</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12240439235115018697" lon="5.23312817558390984615">
+<ele>283.73</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12230559238445692324" lon="5.23441047521254619805">
+<ele>277.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12233529237717987677" lon="5.23511537500843092611">
+<ele>276.04</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12228609239168263763" lon="5.23517707499055527856">
+<ele>276.04</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12219299241931479935" lon="5.23512577500539498724">
+<ele>275.07</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12171319256199807876" lon="5.23509197501507726950">
+<ele>270.27</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12126579269376946367" lon="5.23483667508892035394">
+<ele>267.86</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12132009267734388767" lon="5.23366537542809327970">
+<ele>266.42</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12136419266477815280" lon="5.23352917546753369988">
+<ele>265.46</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12132119267680251905" lon="5.23343547549465969366">
+<ele>266.42</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12142819264337844596" lon="5.23212857587312462003">
+<ele>267.86</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12099069276906248513" lon="5.22996987649814392075">
+<ele>267.86</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12068869285622695851" lon="5.22881977683112885095">
+<ele>267.86</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.12062609287426084247" lon="5.22816167702167965354">
+<ele>266.90</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11999769305729301404" lon="5.22562757775536111893">
+<ele>263.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11996609306618921064" lon="5.22511367790415625025">
+<ele>262.58</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11961329316914514577" lon="5.22335917841214224471">
+<ele>259.21</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11958519317794013516" lon="5.22279777857469084073">
+<ele>256.81</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11948809320660557744" lon="5.22262047862601440590">
+<ele>255.85</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11947569321046102544" lon="5.22220387874663937119">
+<ele>254.41</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11930799325947560277" lon="5.22172137888632724675">
+<ele>253.44</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11924139327886251153" lon="5.22120817903491828370">
+<ele>252.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11887769338618880368" lon="5.22013767934482862911">
+<ele>248.16</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11876539341982094669" lon="5.21996217939561811771">
+<ele>246.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11875399342014957796" lon="5.21995157939871922092">
+<ele>252.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11875189342304536780" lon="5.21994897939944734144">
+<ele>247.68</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11823939357507384190" lon="5.21971597946681152803">
+<ele>242.87</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11807259362397103903" lon="5.21956767950972632077">
+<ele>242.39</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11797319365297198005" lon="5.21928757959081844844">
+<ele>241.91</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11777599371088597851" lon="5.21902337966728423439">
+<ele>240.95</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11721869387784521995" lon="5.21856817979896002683">
+<ele>231.81</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11662809405380868929" lon="5.21847317982634083492">
+<ele>225.09</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11635649413408088413" lon="5.21854947980419580048">
+<ele>223.64</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11618149418659128834" lon="5.21868887976378735785">
+<ele>221.24</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11593469425981339191" lon="5.21873607975006680262">
+<ele>219.32</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11567229433794067837" lon="5.21891967969685220920">
+<ele>216.91</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11555259437395903298" lon="5.21919297961768523478">
+<ele>215.47</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11542819441050510797" lon="5.21930527958514643941">
+<ele>215.47</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11515719449149485721" lon="5.21939277955974477676">
+<ele>212.11</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11496279454919288675" lon="5.21932127958040757945">
+<ele>210.19</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11461339465326147414" lon="5.21905607965712546829">
+<ele>205.86</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11440569471587024832" lon="5.21904117966139046118">
+<ele>202.01</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11406119481816289732" lon="5.21891837969687165623">
+<ele>198.65</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11393469485638262862" lon="5.21875347974458757519">
+<ele>195.77</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11412039480264012906" lon="5.21826247988679091621">
+<ele>193.36</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11461569465861031725" lon="5.21760258007794418506">
+<ele>190.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11465859464557581171" lon="5.21739428013827487535">
+<ele>190.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11479889460471781015" lon="5.21715818020666332007">
+<ele>189.52</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11486839458358843424" lon="5.21664058035656540387">
+<ele>190.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11477799461003001491" lon="5.21645208041112783367">
+<ele>189.52</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11492509456643772957" lon="5.21612878050477223289">
+<ele>190.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11487859457998438849" lon="5.21587328057875064777">
+<ele>189.52</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11472729462397523414" lon="5.21563828064677891226">
+<ele>189.52</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11459159466359380398" lon="5.21553058067793794371">
+<ele>189.52</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11412949479905165032" lon="5.21532008073881402332">
+<ele>188.56</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11382439488889417002" lon="5.21540558071399827888">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11359969495474330739" lon="5.21526168075563044646">
+<ele>187.11</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11337539501980131133" lon="5.21490998085743572254">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11303889511835762377" lon="5.21458028095285007731">
+<ele>186.63</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11271539521356287976" lon="5.21403548111054514461">
+<ele>184.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11261699524192180759" lon="5.21341388129052950543">
+<ele>183.75</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11276589519811607813" lon="5.21216008165361354117">
+<ele>181.35</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11287869516510795035" lon="5.21196638170972369435">
+<ele>180.87</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11304849511562053393" lon="5.21113008195191172976">
+<ele>178.46</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11315179508506644750" lon="5.21101968198389985364">
+<ele>178.94</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11325639505451334214" lon="5.21067598208344405750">
+<ele>177.98</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11391559486215640486" lon="5.20995058229359740952">
+<ele>175.10</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11404939482248010433" lon="5.20949978242416288343">
+<ele>175.10</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11393169485598519354" lon="5.20902148256265283813">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11397149484404422405" lon="5.20895748258119261043">
+<ele>176.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11378039489946444842" lon="5.20853008270492611167">
+<ele>176.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11382129488738711966" lon="5.20821268279684445028">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11376799490336963440" lon="5.20793628287686426439">
+<ele>174.62</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11382299488854385440" lon="5.20784838290232164873">
+<ele>171.73</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11371679491893615346" lon="5.20782718290844924816">
+<ele>173.17</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11368889492835875767" lon="5.20771748294019508600">
+<ele>170.29</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11350899498128796364" lon="5.20756978298293214928">
+<ele>169.33</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11341259500944289000" lon="5.20752338299635030277">
+<ele>169.33</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11342059500744738313" lon="5.20760498297271822148">
+<ele>168.85</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11331849503687862450" lon="5.20761248297053301863">
+<ele>169.81</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11329039504451542923" lon="5.20751328299925829706">
+<ele>170.77</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11331259503734968901" lon="5.20773188293597309987">
+<ele>172.69</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11344899499480475794" lon="5.20808618283343082149">
+<ele>178.94</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11335679502175110526" lon="5.20802468285122087659">
+<ele>178.94</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11296829513480587917" lon="5.20807198283746507466">
+<ele>180.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11255549525318286313" lon="5.20815108281451787357">
+<ele>185.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11247079527668545878" lon="5.20823758278946778980">
+<ele>188.56</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11227469533321254275" lon="5.20806508283939172381">
+<ele>190.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11142699557915846628" lon="5.20779868291641444536">
+<ele>193.84</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11117199565723012131" lon="5.20755198298777964831">
+<ele>186.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11087449574704776852" lon="5.20674768322060098607">
+<ele>178.46</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11063159581838987708" lon="5.20633788333922263843">
+<ele>177.02</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11075799578022582056" lon="5.20550798357956966398">
+<ele>177.50</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11041849587806495368" lon="5.20434678391577775203">
+<ele>177.98</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11033379590181623930" lon="5.20278468436810469502">
+<ele>176.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11039339588401730329" lon="5.20230668450653509487">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.11026509592072385989" lon="5.20149458474168379091">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10989169602817838143" lon="5.20008028515117536327">
+<ele>176.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10989599602692833845" lon="5.19986838521254223566">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10979609605559658679" lon="5.19938128535357790074">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10978539605775949316" lon="5.19891628548823447122">
+<ele>177.02</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10983589604268927918" lon="5.19865888556278576208">
+<ele>177.02</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10968309608745129812" lon="5.19830608566491569127">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10966029609381421883" lon="5.19801458574932605878">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10949089614298656548" lon="5.19783778580049648303">
+<ele>176.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10934739618476640423" lon="5.19787308579025619030">
+<ele>177.02</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10934829618457796975" lon="5.19770058584020499331">
+<ele>176.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10925559621173874227" lon="5.19754448588539118909">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10911979625176115285" lon="5.19759948586943742249">
+<ele>175.58</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10910969625464161361" lon="5.19771858583495215760">
+<ele>176.06</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10934739618384269867" lon="5.19787308579026507209">
+<ele>178.94</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10912509624939303301" lon="5.19767718584695170086">
+<ele>177.50</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10913709624552580515" lon="5.19756698587886666679">
+<ele>177.98</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10902719627953416073" lon="5.19734408594337437344">
+<ele>173.66</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10870239637886668895" lon="5.19708398601859488460">
+<ele>164.04</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10814419654238349149" lon="5.19700888604025034520">
+<ele>163.56</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10774209665945732576" lon="5.19707018602243663660">
+<ele>165.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10747129673858779024" lon="5.19700018604266133290">
+<ele>165.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10709279684871119682" lon="5.19699398604440520394">
+<ele>166.45</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10629529708155870934" lon="5.19652868617901030698">
+<ele>166.45</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10612859713031496653" lon="5.19647058619580891966">
+<ele>166.45</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10589679719769406458" lon="5.19649148618972222332">
+<ele>167.41</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10586749720613397015" lon="5.19640078621598177431">
+<ele>167.41</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10570839725284030805" lon="5.19646668619687356691">
+<ele>167.41</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10580939722310488945" lon="5.19633308623557343207">
+<ele>167.41</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10552789730550670697" lon="5.19613878629179381317">
+<ele>166.93</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10508779743393147898" lon="5.19602428632488155057">
+<ele>167.41</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10455219759015221259" lon="5.19596458634208512658">
+<ele>168.37</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10397079776021200248" lon="5.19606278631355244312">
+<ele>168.85</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10356799787811609693" lon="5.19628448624928739672">
+<ele>169.33</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10350109789823846431" lon="5.19636778622515293289">
+<ele>168.37</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10319919798647702583" lon="5.19645638619944349254">
+<ele>168.85</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10267959813894122481" lon="5.19681178609643622885">
+<ele>168.85</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10192999835852844518" lon="5.19702368603494945584">
+<ele>168.85</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10173189841653140213" lon="5.19725048596924209883">
+<ele>169.33</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10111839859646209457" lon="5.19755608588063821379">
+<ele>169.33</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10090939865740721765" lon="5.19756548587788724042">
+<ele>169.81</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10038149881192026111" lon="5.19780278580908471702">
+<ele>170.29</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.10010089889403416818" lon="5.19780778580759061163">
+<ele>170.29</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09973259899914665783" lon="5.19806328573356601147">
+<ele>176.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09950739906397387604" lon="5.19813628571240381809">
+<ele>178.94</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09883119925851957324" lon="5.19861498557370359867">
+<ele>187.11</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09856659933510058883" lon="5.19870138554865234629">
+<ele>189.04</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09814219945700130915" lon="5.19865628556166203059">
+<ele>193.84</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09791079952362480092" lon="5.19869268555109442023">
+<ele>196.25</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09710839975538476462" lon="5.19840668563380957983">
+<ele>202.01</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09681509984046954083" lon="5.19838808563915132714">
+<ele>203.46</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09655219991721253133" lon="5.19821478568929595049">
+<ele>203.46</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09642939995316623733" lon="5.19818728569723375393">
+<ele>203.46</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09607550005654985424" lon="5.19784918579508214213">
+<ele>202.98</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09589320010990576090" lon="5.19782488580208656208">
+<ele>202.98</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09553580021488272477" lon="5.19754948588177078456">
+<ele>201.53</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09482450042425938163" lon="5.19681218609514505098">
+<ele>197.21</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09447850052480077722" lon="5.19638848621778581058">
+<ele>197.69</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09427080058510028750" lon="5.19594408634644099673">
+<ele>197.69</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09413300062495721735" lon="5.19530718653084821268">
+<ele>197.21</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09395060067807037086" lon="5.19506578660072636878">
+<ele>197.21</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09380920071826181840" lon="5.19462658672789600401">
+<ele>198.65</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09278780101201533429" lon="5.19290478722636005630">
+<ele>205.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09266420104728467582" lon="5.19251928733798172960">
+<ele>206.34</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09259790106677456638" lon="5.19256328732523097318">
+<ele>206.34</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09255510107900022181" lon="5.19232758739347754290">
+<ele>206.34</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09258100107108191228" lon="5.19180558754464093558">
+<ele>205.86</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09232680114497781949" lon="5.19113048774009477136">
+<ele>205.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09239240112530211296" lon="5.19054598790937048811">
+<ele>204.90</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09232600114413003018" lon="5.19019718801036677258">
+<ele>205.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09235770113314600655" lon="5.18870738844180134177">
+<ele>205.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09248040109484634091" lon="5.18743548881014947909">
+<ele>207.30</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09259180106089104161" lon="5.18682178898790090898">
+<ele>208.74</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09265970104187459615" lon="5.18594518924174695913">
+<ele>204.90</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09257010107001661741" lon="5.18561238933808165516">
+<ele>200.09</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09255140107599402005" lon="5.18524278944510274391">
+<ele>198.17</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09258930106503981765" lon="5.18436688969874825239">
+<ele>195.77</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09255730107452819571" lon="5.18408168978132621142">
+<ele>194.80</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09237750112726672375" lon="5.18358158992611705408">
+<ele>193.36</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09220580117629850554" lon="5.18251579023472785205">
+<ele>193.36</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09189880126500326956" lon="5.18148719053254857398">
+<ele>193.36</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09185150127990482166" lon="5.18064459077653082615">
+<ele>189.04</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09174270131205730456" lon="5.18029689087719890481">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09174330131153140917" lon="5.17939369113875080319">
+<ele>186.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09171030132121415852" lon="5.17921939118922213641">
+<ele>185.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09160770135090956308" lon="5.17910759122157670465">
+<ele>186.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09162090134734768106" lon="5.17918679119864221850">
+<ele>185.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09168910132724761104" lon="5.17906269123459227889">
+<ele>185.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09161500134864297513" lon="5.17882689130286521350">
+<ele>185.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09087010156495267473" lon="5.17753149167787717736">
+<ele>186.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09068620161843199221" lon="5.17704399181902274302">
+<ele>185.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09056700165301378811" lon="5.17639259200764100649">
+<ele>184.71</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09079700158426362385" lon="5.17734989173047298998">
+<ele>190.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08995860182865555808" lon="5.17667989192436549921">
+<ele>190.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09051310166556447521" lon="5.17581889217379220009">
+<ele>190.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09025800174347153681" lon="5.17578929218229077231">
+<ele>183.27</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09022090175247399013" lon="5.17577889218531605303">
+<ele>187.11</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09020970175782139033" lon="5.17577369218680249214">
+<ele>182.79</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09019920175834528020" lon="5.17576969218797876943">
+<ele>188.08</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09018770176353996059" lon="5.17576679218880019557">
+<ele>184.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09006220180086898875" lon="5.17569429220976750367">
+<ele>182.79</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.09000730181705307399" lon="5.17558299224198669459">
+<ele>182.31</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08978670188125903261" lon="5.17548059227160627667">
+<ele>182.79</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08938940199488598449" lon="5.17460609252480362839">
+<ele>186.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08929100202330886117" lon="5.17426069262481735222">
+<ele>186.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08924870203531298597" lon="5.17393899271796797022">
+<ele>186.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08942690198146152437" lon="5.17326879291209173319">
+<ele>188.08</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08903670209295455420" lon="5.17253179312547661086">
+<ele>191.92</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08897830210958801256" lon="5.17190169330793735727">
+<ele>191.44</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08903990209159928595" lon="5.17116069352253048669">
+<ele>189.52</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08900500210204853416" lon="5.17057429369233289413">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08909570207562467017" lon="5.17006789383899256060">
+<ele>186.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08928800201931607984" lon="5.16984839390259142540">
+<ele>185.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08939870198680210745" lon="5.16955179398850094694">
+<ele>185.19</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08949380195782907588" lon="5.16854959427874759836">
+<ele>185.19</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08945070196878645941" lon="5.16852109428700855897">
+<ele>188.56</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08944630197213854029" lon="5.16851849428774467310">
+<ele>184.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08944230197165125940" lon="5.16851579428853735021">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08929590201611858714" lon="5.16848749429669051391">
+<ele>184.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08908370207805660170" lon="5.16817459438726788802">
+<ele>183.75</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08838340228187035833" lon="5.16778279450062338196">
+<ele>185.19</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08799000239623211241" lon="5.16731519463597343403">
+<ele>185.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08789950242240962366" lon="5.16704719471357076103">
+<ele>185.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08792310241521761141" lon="5.16679979478522443528">
+<ele>185.67</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08744260255389235497" lon="5.16552659515386024952">
+<ele>186.63</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08734660258140536187" lon="5.16483859535308286599">
+<ele>186.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08718650262732552209" lon="5.16460089542190469577">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08701940267597052343" lon="5.16458839542549696252">
+<ele>188.08</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08684930272580259996" lon="5.16464649540864417095">
+<ele>188.08</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08662280279225597996" lon="5.16458199542727846439">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08654820281383734754" lon="5.16434999549445538511">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08638620286097875396" lon="5.16412729555891924370">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08631360288168110447" lon="5.16386369563525170909">
+<ele>188.08</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08637810286274571854" lon="5.16363239570224585172">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08637950286140494245" lon="5.16301049588234394629">
+<ele>188.08</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08599700297290979551" lon="5.16226849609716164504">
+<ele>187.11</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08575980304158292529" lon="5.16139279635072067291">
+<ele>186.63</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08546520312692251584" lon="5.16105049644980517370">
+<ele>187.59</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08483100331172010831" lon="5.16058399658479682186">
+<ele>188.08</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08458740338225112331" lon="5.16013329671527997562">
+<ele>188.56</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08432440345815450478" lon="5.15921559698100384170">
+<ele>188.56</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08431110346158732050" lon="5.15882599709382904537">
+<ele>188.56</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08414210350935746698" lon="5.15778819739435511625">
+<ele>189.52</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08404610353758812204" lon="5.15753109746878912068">
+<ele>188.56</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08380640360667257305" lon="5.15718869756791242089">
+<ele>190.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08385040359334538884" lon="5.15700969761976146125">
+<ele>190.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08369360363758459976" lon="5.15658359774314600123">
+<ele>192.88</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08356170367542148193" lon="5.15593919792974463725">
+<ele>192.88</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08307340381796279697" lon="5.15583249796056452433">
+<ele>193.36</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08278090390328429573" lon="5.15556299803856354240">
+<ele>193.36</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08229370404445290714" lon="5.15474409827564449710">
+<ele>194.32</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08133240432259469628" lon="5.15379929854911632999">
+<ele>198.65</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08096180443062195137" lon="5.15325019870807387478">
+<ele>198.17</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08035870460668092905" lon="5.15267839887356603910">
+<ele>197.69</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07946690486645735351" lon="5.15245339893858300018">
+<ele>199.61</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07897350501282573819" lon="5.15251299892121927159">
+<ele>195.77</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07884830504794848426" lon="5.15224779899801443196">
+<ele>198.17</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07869720508812605264" lon="5.15132609926494477340">
+<ele>204.42</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07843370516101799529" lon="5.15048609950819890505">
+<ele>211.15</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07841070516681014459" lon="5.15009989962004687719">
+<ele>212.11</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07830980519547381227" lon="5.14974009972423817821">
+<ele>213.07</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07828130519966691572" lon="5.14860310005354104187">
+<ele>218.84</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07846630513565599875" lon="5.14607290078640388545">
+<ele>233.26</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07833520516315672757" lon="5.14312370164056353226">
+<ele>248.64</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07844740512514647269" lon="5.14149070211354252602">
+<ele>255.37</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07863450506614810654" lon="5.13987600258123666277">
+<ele>260.17</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07858570507846707021" lon="5.13917740278356038248">
+<ele>262.58</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07861640506851585831" lon="5.13877990289868690682">
+<ele>263.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07893190497438950902" lon="5.13768170321679828379">
+<ele>264.50</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07924730488216624569" lon="5.13771190320810599491">
+<ele>264.50</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.07928050487214477304" lon="5.13766690322114615771">
+<ele>264.98</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08026120458448815329" lon="5.13787140316209533426">
+<ele>266.90</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08096940437683741548" lon="5.13735030331312980044">
+<ele>266.42</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08129860427909818383" lon="5.13696060342606041691">
+<ele>268.35</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08142420424147189635" lon="5.13662210352411906988">
+<ele>269.31</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08154380420538842428" lon="5.13593080372434850822">
+<ele>269.79</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08164430417384238408" lon="5.13436910417665436850">
+<ele>270.27</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08166860416805832129" lon="5.13431060419358863894">
+<ele>267.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08167160416490304269" lon="5.13429860419708993729">
+<ele>272.19</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08191180409359333052" lon="5.13291870459675968958">
+<ele>270.75</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08228280398488862884" lon="5.13146580501759074710">
+<ele>267.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08252670391204475035" lon="5.13098710515627675564">
+<ele>269.31</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08282310382481483482" lon="5.12986550548115260374">
+<ele>267.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08281120382773820945" lon="5.12939610561709357576">
+<ele>267.38</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08291600379684638080" lon="5.12882240578326164475">
+<ele>266.42</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08283510382069891700" lon="5.12842200589920515436">
+<ele>264.98</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08292430379476200921" lon="5.12817310597129959955">
+<ele>264.02</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08308520374816197144" lon="5.12685290635366008257">
+<ele>259.69</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08314800372981068047" lon="5.12576490666875894063">
+<ele>256.81</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08299570377398879196" lon="5.12487650692602424941">
+<ele>255.37</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08301130376927545566" lon="5.12418720712565444690">
+<ele>253.93</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08295900378500675566" lon="5.12395880719178985987">
+<ele>252.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08299890377367802154" lon="5.12294790748455852130">
+<ele>249.12</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08311000374024501806" lon="5.12202650775142930792">
+<ele>248.64</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08303880376084293684" lon="5.12162050786900379615">
+<ele>248.16</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08287870380757311574" lon="5.12134860794772083746">
+<ele>247.68</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08303610376144376741" lon="5.12111180801632492287">
+<ele>247.20</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08351260362206147471" lon="5.11945120849733292203">
+<ele>242.87</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08354690361215943818" lon="5.11863930873247240897">
+<ele>240.47</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08351180362200949327" lon="5.11757530904061041471">
+<ele>238.54</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08361890358776235922" lon="5.11686520924631248992">
+<ele>242.87</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08350660361773520714" lon="5.11524730971488849585">
+<ele>244.79</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08339940364799502783" lon="5.11490810981311393967">
+<ele>246.23</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08276160383200448048" lon="5.11408011005282858133">
+<ele>249.60</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08262960387024520340" lon="5.11395751008831744267">
+<ele>250.08</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08230220396512066655" lon="5.11391751009985461830">
+<ele>252.00</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08222630398687868874" lon="5.11375311014746180529">
+<ele>252.48</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08207120403189094132" lon="5.11362291018514535903">
+<ele>252.96</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08203220404316624410" lon="5.11349811022128441476">
+<ele>252.96</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08192770407359972577" lon="5.11340781024741807796">
+<ele>252.96</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08182710410303428543" lon="5.11338111025513430389">
+<ele>252.96</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+<trkpt lat="50.08178920411393874983" lon="5.11342501024241346511">
+<ele>253.44</ele>
+<src>Pythagoras Topo</src>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
