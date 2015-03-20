@@ -1,9 +1,9 @@
 ---
 
-git_repo: https://github.com/jcalazan/glucose-tracker.git
+git_repo: https://github.com/HackaLibramont/Baladorama
 
-project_name: glucose-tracker
-application_name: glucosetracker
+project_name: baladorama
+application_name: baladorama
 
 ssl_dest_dir: /etc/ssl
 
