@@ -7,6 +7,8 @@
 
     <link href="lib/ionic/css/ionic.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/leaflet.css" />
+    <script src="lib/leaflet/leaflet.js"></script>
 
     <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
     <link href="css/ionic.app.css" rel="stylesheet">
@@ -23,7 +25,27 @@
     <script src="js/controllers.js"></script>
   </head>
 
-  <body ng-app="starter">
+  <body id="app">
     <ion-nav-view></ion-nav-view>
   </body>
+  <script>
+    function bootstrapAngular() {
+        console.log("Bootstrapping AngularJS");
+        // This assumes your app is named "app" and is on the body tag: <body ng-app="app">
+        // Change the selector from "body" to whatever you need
+        var domElement = document.getElementById('app');
+        // Change the application name from "app" if needed
+        angular.bootstrap(domElement, ['starter']);
+    }
+
+    // This method of user agent detection also works, though it means you might have to maintain this UA list
+    if (navigator.userAgent.match(/(iOS|iPhone|iPod|iPad|Android|BlackBerry)/)) {
+        console.log("UA: Running in Cordova/PhoneGap");
+        document.addEventListener("deviceready", bootstrapAngular, false);
+    } else {
+        console.log("UA: Running in browser");
+        bootstrapAngular();
+    }
+
+  </script>
 </html>
