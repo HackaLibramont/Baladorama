@@ -23,7 +23,7 @@ class WalkViewSet(viewsets.ModelViewSet):
     serializer_class = WalkSerializer
 
 class GPXViewSet(viewsets.ModelViewSet):
-    queryset = Walk.objects.all()
+    queryset = GPX.objects.all()
     serializer_class = GPXSerializer
 
 # Routers provide an easy way of automatically determining the URL conf.
@@ -38,4 +38,5 @@ urlpatterns = patterns('',
     url(r'^', include(router.urls)),
     url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     url(r'^admin/', include(admin.site.urls)),
+    url(r'^pois/find$', 'baladapp.views.find_pois_ctrl'),
 )

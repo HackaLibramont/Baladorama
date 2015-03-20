@@ -19,6 +19,7 @@ class Poi(models.Model):
     longitude = models.DecimalField(max_digits=4, decimal_places=2, null=True)
     description = models.TextField(null=True)
     website = models.CharField(max_length=100, null=True)
+    phone = models.CharField(max_length=45, null=True)
     poi_type = models.ForeignKey(PoiType)
 
 class City(models.Model):
@@ -56,8 +57,6 @@ class Location(models.Model):
     is_stop = models.BooleanField(default=False)
     city = models.ForeignKey(City)
     walk = models.ForeignKey(Walk)
-
-
 
 class GPX(models.Model):
     name = models.CharField(max_length=100)
