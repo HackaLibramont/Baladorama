@@ -1,0 +1,16 @@
+[
+    {
+        "model": "baladapp.PoiType",
+        "pk": 1,
+        "fields": {
+            "name": "Bâtiment civil"
+        }
+    },
+    {
+        "model": "baladapp.PoiType",
+        "pk": 2,
+        "fields": {
+            "name": "Restaurant"
+        }
+    }
+]

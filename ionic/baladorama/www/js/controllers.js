@@ -1,4 +1,4 @@
-angular.module('starter.controllers', [])
+angular.module('starter.controllers', ['osmMap', 'api'])
 
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
   // Form data for the login modal
@@ -33,16 +33,60 @@ angular.module('starter.controllers', [])
   };
 })
 
-.controller('PlaylistsCtrl', function($scope) {
-  $scope.playlists = [
-    { title: 'Reggae', id: 1 },
-    { title: 'Chill', id: 2 },
-    { title: 'Dubstep', id: 3 },
-    { title: 'Indie', id: 4 },
-    { title: 'Rap', id: 5 },
-    { title: 'Cowbell', id: 6 }
-  ];
+.controller('HomeCtrl', function($scope, $osm, $cordovaGeolocation) {
+  $osm.init();
+
+  var posOptions = {timeout: 10000, enableHighAccuracy: false};
+  $cordovaGeolocation
+    .getCurrentPosition(posOptions)
+    .then(function (position) {
+      console.log(position);
+  
+      $osm.update(position, true);
+    }, function(err) {
+      console.log(err);
+    });
+
+  var watchOptions = {
+    frequency : 7000,
+    timeout : 3000,
+    enableHighAccuracy: false // may cause errors if true
+  };
+
+  var watch = $cordovaGeolocation.watchPosition(watchOptions);
+  watch.then(
+    null,
+    function(err) {
+      // error
+    },
+    function(position) {
+      console.log(position);
+      $osm.update(position, false);
+  });
+  
+
 })
 
-.controller('PlaylistCtrl', function($scope, $stateParams) {
+.controller('PoisCtrl', function($scope, $stateParams, $cordovaGeolocation, $osm, Pois) {
+  // GET /pois/find?latitude=..&longitude=..&radius=(metres)
+
+  var posOptions = {timeout: 10000, enableHighAccuracy: false};
+  $cordovaGeolocation
+    .getCurrentPosition(posOptions)
+    .then(function (position) {
+      var pois = Pois.query({
+        latitude: position.coords.latitude,
+        longitude: position.coords.longitude,
+        radius: 10000
+      }, function() {
+        console.log(pois);
+        $osm.addPois(pois);
+      });
+    }, function(err) {
+      console.log(err);
+    });
+
+
+  
+  console.log('hello');
 });

@@ -1,0 +1,32 @@
+[
+    {
+        "model": "baladapp.Poi",
+        "pk": 1,
+        "fields": {
+            "name": "Gare de Libramont",
+            "latitude": "49.920261",
+            "longitude": "5.379319",
+            "poi_type": 1
+        }
+    },
+    {
+        "model": "baladapp.Poi",
+        "pk": 2,
+        "fields": {
+            "name": "Hôpital de Libramont",
+            "latitude": "49.925166",
+            "longitude": "5.381429",
+            "poi_type": 1
+        }
+    },
+    {
+        "model": "baladapp.Poi",
+        "pk": 3,
+        "fields": {
+            "name": "Atomium",
+            "latitude": "50.894941",
+            "longitude": "4.341547",
+            "poi_type": 1
+        }
+    }
+]

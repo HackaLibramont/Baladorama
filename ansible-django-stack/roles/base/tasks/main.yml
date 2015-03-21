@@ -26,9 +26,9 @@
     - supervisor
   tags: packages
 
-- name: Install newrelic
-  pip: name=newrelic
-  tags: packages
+#~ - name: Install newrelic
+  #~ pip: name=newrelic
+  #~ tags: packages
 
 - name: Install virtualenv
   pip: name=virtualenv
