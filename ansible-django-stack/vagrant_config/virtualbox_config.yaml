@@ -1,0 +1,9 @@
+box: "ubuntu/trusty64"
+#box: "scorebig/windows-2012R2-SC"
+box_url: "https://atlas.hashicorp.com/ubuntu/boxes/trusty64"
+#box_url: "https://vagrantcloud.com/scorebig/boxes/windows-2012R2-SC"
+
+
+ip: "192.168.33.15"
+memory: 2048
+cpus: 2
