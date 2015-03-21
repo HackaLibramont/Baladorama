@@ -1,1 +1,5 @@
 /* Empty. Add your own CSS if you like */
+ .awesome-marker i {
+        font-size: 18px;
+        margin-top: 8px;
+    }

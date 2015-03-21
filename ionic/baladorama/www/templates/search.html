@@ -1,5 +1,76 @@
 <ion-view view-title="Search">
-  <ion-content>
-    <h1>Search</h1>
+  <ion-content ng-controller='SearchCtrl'>
+  	<form>
+		<div class="list list-inset">
+			<label class="item item-input">
+				<i class="icon ion-search placeholder-icon"></i>
+				<input type="text" placeholder="Search">
+			</label>
+		</div>
+		<div class="list list-inset">
+			<div class="item card">
+				<label class="item-stacked-label">
+					<span class="input-label" >Duration </span>
+					<span class="">Minimum: {{ params.min_duration | minutes }}</span>
+					<span class="">Maximum: {{ params.max_duration | minutes }}</span>
+					<div class="range  range-positive">
+					<i class="icon ion-ios-stopwatch-outline"></i>
+					<slider class="range range-positive"
+						ng-model-low="params.min_duration"
+						ng-model-high="params.max_duration"
+						floor="0"
+						ceiling="480"
+						step="5">
+					</slider>
+					</div>
+				</label>
+			</div>
+
+			<div class="item card">
+				<label class="item-stacked-label">
+					<span class="input-label" >Nature</span>
+					<div class="range  range-positive">
+					<i class="icon ion-leaf"></i>
+					<input ng-model="params.nature_level" type="range" name="nature_level" min="0" max="9" >
+					</div>
+				</label>
+			</div>
+			<div class="item card">
+				<label class="item-stacked-label">
+					<span class="input-label" >Heritage</span>
+					<div class="range  range-positive">
+					<i class="icon ion-ios-home"></i>
+					<input ng-model="params.heritage_level" type="range" name="heritage_level" min="0" max="9" >
+					</div>
+				</label>
+			</div>
+			<div class="item card">
+				<label class="item-stacked-label">
+					<span class="input-label" >Food</span>
+					<div class="range  range-positive">
+					<i class="icon ion-fork"></i>
+					<input ng-model="params.food_level" type="range" name="food_level" min="0" max="9" >
+					</div>
+				</label>
+			</div>
+			<div class="item card">
+				<label class="item-stacked-label">
+					<span class="input-label" >Culture</span>
+					<div class="range  range-positive">
+					<i class="icon ion-ios-book"></i>
+					<input ng-model="params.culture_level" type="range" name="culture_level" min="0" max="9" >
+					</div>
+				</label>
+			</div>
+
+			
+
+			
+
+		</div>
+	</form>
+	<button ng-click="search()" class="bar button bar-footer bar-balanced ">
+		Search
+	</button>
   </ion-content>
 </ion-view>

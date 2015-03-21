@@ -3,4 +3,13 @@ angular.module('api', ['ionic', 'ngResource'])
 
 .factory('Pois', function($resource, host) {
   return $resource( host + '/pois/find');
+})
+.factory('Walks', function($resource, host) {
+	return $resource( host + '/walks/find');
+})
+.factory('Search', function($resource, host) {
+	return $resource( host + '/walks/search');
+})
+.factory('Poi', function($resource, host) {
+	return $resource( host + '/poi/:id', {poiId:'@id'});
 });

@@ -1,0 +1,13 @@
+<ion-view view-title="Results">
+  <ion-content ng-controller='ResultsCtrl'>
+	<div class="list">
+		<div ng-repeat="walk in walks">
+			<div class="item card item-thumbnail-left">
+				<img src="http://192.168.1.65:8000/static/no-image.jpg">
+				<h2>{{walk.fields.name}}</h2>
+				<p>{{walk.fields.description}}</p>
+			</div>
+		</div>
+	</div>
+  </ion-content>
+</ion-view>
