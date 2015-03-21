@@ -3,7 +3,20 @@
         "model": "baladapp.Walk",
         "pk": 1,
         "fields": {
-            "name": "My Walk"
+            "name": "My Walk",
+            "start_latitude": "49.92801",
+            "start_longitude": "5.378813",
+            "distance": "2000",
+            "is_for_walker": true,
+            "is_for_horse": true,
+            "is_for_bike": true,
+            "is_for_disabled": true,
+            "is_loop": true,
+            "description": "Jolie promenade dans le centre de Libramont",
+            "avg_walker_duration": 20,
+            "avg_horse_duration": 10,
+            "avg_bike_duration": 5,
+            "waypoints": "(49.925166,5.381429),(49.920261,5.379319)"
         }
     },
     {

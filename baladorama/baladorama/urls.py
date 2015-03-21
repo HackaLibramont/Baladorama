@@ -4,10 +4,12 @@ from rest_framework import routers, serializers, viewsets
 from baladapp.models import Walk, PoiType, GPX
 
 # Serializers define the API representation.
-class WalkSerializer(serializers.HyperlinkedModelSerializer):
+class WalkSerializer(serializers.ModelSerializer):
+#class WalkSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Walk
-        fields = ('name', )
+        fields = ('name', 'start_latitude', 'start_longitude', 'distance', 'is_for_walker', 'is_loop', 'description', 'avg_walker_duration', 'waypoints', 'created_at')
+        depth = 1
 
 
 class GPXSerializer(serializers.HyperlinkedModelSerializer):
