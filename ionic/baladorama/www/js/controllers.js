@@ -40,7 +40,6 @@ angular.module('starter.controllers', ['osmMap', 'api'])
   $cordovaGeolocation
     .getCurrentPosition(posOptions)
     .then(function (position) {
-      console.log(position);
   
       $osm.update(position, true);
     }, function(err) {
@@ -48,7 +47,7 @@ angular.module('starter.controllers', ['osmMap', 'api'])
     });
 
   var watchOptions = {
-    frequency : 7000,
+    frequency : 10000,
     timeout : 3000,
     enableHighAccuracy: false // may cause errors if true
   };
@@ -60,28 +59,50 @@ angular.module('starter.controllers', ['osmMap', 'api'])
       // error
     },
     function(position) {
-      console.log(position);
       $osm.update(position, false);
   });
   
 
+
 })
 
-.controller('PoisCtrl', function($scope, $stateParams, $cordovaGeolocation, $osm, Pois) {
+.controller('PoisCtrl', function($scope, $stateParams, $cordovaGeolocation, $osm, Pois, Walks) {
   // GET /pois/find?latitude=..&longitude=..&radius=(metres)
 
   var posOptions = {timeout: 10000, enableHighAccuracy: false};
   $cordovaGeolocation
     .getCurrentPosition(posOptions)
     .then(function (position) {
-      var pois = Pois.query({
+      var params = {
         latitude: position.coords.latitude,
         longitude: position.coords.longitude,
         radius: 10000
-      }, function() {
-        console.log(pois);
-        $osm.addPois(pois);
+      };
+      var pois = Pois.query(params, function() {
+      
+        $osm.addPois(pois, $scope);
       });
+
+      var walks = Walks.query(params, function() {
+        
+        walks.forEach(function (walk) {
+          walk.waypoints = JSON.parse(walk.fields.waypoints);
+          pois = [];
+          pois[0] = {
+            fields: {
+              latitude:  walk.fields.start_latitude,
+              longitude:  walk.fields.start_longitude,
+              name: walk.fields.name,
+              distance_from: walk.fields.distance_from
+            },
+            icon: 'routeMarker'
+          };
+          $osm.addPois(pois, $scope);
+          walk.waypoints.push({latitude: walk.fields.start_latitude, longitude: walk.fields.start_longitude});
+          $osm.addRoute(walk.waypoints);
+        });
+      });
+
     }, function(err) {
       console.log(err);
     });
@@ -89,4 +110,31 @@ angular.module('starter.controllers', ['osmMap', 'api'])
 
   
   console.log('hello');
+})
+.controller('SearchCtrl', function($scope, $state, Search) {
+
+  $scope.params = {
+    q: 'lib',
+    min_duration: 10,
+    max_duration: 180,
+    nature_level: 4,
+    heritage_level: 4,
+    food_level:4,
+    culture_level:4
+  };
+
+  $scope.search = function () {
+    var walks = Search.query($scope.params, function(result) {
+      $state.go('app.results', {walks: JSON.stringify(result)}, {location: false, inherit: false});
+    });
+  };
+  
+})
+.controller('ResultsCtrl', function($scope, $stateParams) {
+  $scope.walks = JSON.parse($stateParams.walks);
+})
+.controller('DetailsCtrl', function($scope, $stateParams, ) {
+  var poiId = $stateParams.id;
+  console.log(poiId);
+
 });
