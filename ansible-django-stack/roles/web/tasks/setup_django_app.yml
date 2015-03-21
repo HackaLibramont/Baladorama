@@ -25,7 +25,7 @@
 
 - name: Load django data
   django_manage:
-    command: loaddata ${item}
+    command: loaddata {{ item }}
     app_path: "{{ application_path }}"
     virtualenv: "{{ virtualenv_path }}"
     settings: "{{ django_settings_file }}"
