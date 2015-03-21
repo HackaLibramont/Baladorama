@@ -11,5 +11,5 @@ angular.module('api', ['ionic', 'ngResource'])
 	return $resource( host + '/walks/search');
 })
 .factory('Poi', function($resource, host) {
-	return $resource( host + '/poi/:id', {poiId:'@id'});
+	return $resource( host + '/pois/:id', {id:'@id'});
 });

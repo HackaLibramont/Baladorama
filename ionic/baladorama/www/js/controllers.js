@@ -133,8 +133,8 @@ angular.module('starter.controllers', ['osmMap', 'api'])
 .controller('ResultsCtrl', function($scope, $stateParams) {
   $scope.walks = JSON.parse($stateParams.walks);
 })
-.controller('DetailsCtrl', function($scope, $stateParams, ) {
+.controller('DetailsCtrl', function($scope, $stateParams, Poi) {
   var poiId = $stateParams.id;
   console.log(poiId);
-
+  $scope.poi = Poi.get({id: poiId});
 });
