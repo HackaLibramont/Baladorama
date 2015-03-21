@@ -38,6 +38,16 @@
   when: run_django_loaddata
   tags: django.loaddata
 
+- name: Load gpx
+  django_manage:
+    command: insertgpx
+    app_path: "{{ application_path }}"
+    virtualenv: "{{ virtualenv_path }}"
+    settings: "{{ django_settings_file }}"
+  environment: django_environment
+  when: run_django_loaddata
+  tags: django.loadgpx
+
 - name: Run Django collectstatic
   django_manage:
     command: collectstatic
