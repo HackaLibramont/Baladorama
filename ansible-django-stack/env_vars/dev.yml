@@ -17,7 +17,7 @@ gunicorn_max_requests: 0
 
 
 # Nginx settings.
-nginx_server_name: "{{ inventory_hostname }}"
+nginx_server_name: "79.125.108.43"
 
 
 # RabbitMQ settings.
