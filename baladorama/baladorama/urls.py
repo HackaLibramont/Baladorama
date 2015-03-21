@@ -1,9 +1,7 @@
 from django.conf.urls import patterns, include, url
 from django.contrib import admin
 from rest_framework import routers, serializers, viewsets
-from baladapp.models import Walk
-from baladapp.models import GPX
-
+from baladapp.models import Walk, PoiType, GPX
 
 # Serializers define the API representation.
 class WalkSerializer(serializers.HyperlinkedModelSerializer):
@@ -17,6 +15,11 @@ class GPXSerializer(serializers.HyperlinkedModelSerializer):
         model = GPX
         fields = ('name', )
 
+class PoiTypeSerializer(serializers.HyperlinkedModelSerializer):
+    class Meta:
+        model = PoiType
+        fields = ('id', 'name', )
+
 # ViewSets define the view behavior.
 class WalkViewSet(viewsets.ModelViewSet):
     queryset = Walk.objects.all()
@@ -25,6 +28,10 @@ class WalkViewSet(viewsets.ModelViewSet):
 class GPXViewSet(viewsets.ModelViewSet):
     queryset = GPX.objects.all()
     serializer_class = GPXSerializer
+
+class PoiTypeViewSet(viewsets.ModelViewSet):
+    queryset = PoiType.objects.all()
+    serializer_class = PoiTypeSerializer
 
 # Routers provide an easy way of automatically determining the URL conf.
 router = routers.DefaultRouter()

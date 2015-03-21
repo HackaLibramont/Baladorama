@@ -13,6 +13,7 @@ def find_pois(latitude, longitude, radius, poi_type=None):
     for poi in pois:
         stop = (poi.latitude, poi.longitude)
         distance = compute_distance(start, stop)
-        if distance <= radius:
+        print "%d - %s" % (distance, radius)
+        if int(distance) <= int(radius):
             results.append(poi)
     return results
