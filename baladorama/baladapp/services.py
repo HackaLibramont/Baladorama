@@ -1,5 +1,6 @@
 from geopy.distance import vincenty
 from baladapp.models import Poi, Walk
+import sys
 
 def compute_distance(start, stop):
     start_lat, start_lng = start
@@ -39,12 +40,15 @@ def find_walks(latitude, longitude, radius):
             results.append(walk)
     return results
 
-def search_walks(q):
+def search_walks(q, min_duration=0, max_duration=sys.maxint):
+    #mydict = {'description__icontains': q}
+    mydict = {'description__icontains': q, 'avg_walker_duration__gte': min_duration, 'avg_walker_duration__lte': max_duration}
+    walks = Walk.objects.filter(**mydict)
     results = []
-    if q:
-        walks = Walk.objects.filter(description__icontains=q).all()
-    else:
-        walks = Walk.objects.all()
+    #if q:
+        #walks = Walk.objects.filter(description__icontains=q).all()
+    #else:
+        #walks = Walk.objects.all()
     for walk in walks:
         results.append(walk)
     return results

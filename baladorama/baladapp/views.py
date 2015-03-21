@@ -32,7 +32,9 @@ def find_walks_ctrl(request):
 def search_walks_ctrl(request):
     try:
         q = request.GET.get('q')
-        walks = search_walks(q)
+        min_duration = request.GET.get('min_duration')
+        max_duration = request.GET.get('max_duration')
+        walks = search_walks(q, min_duration, max_duration)
         data = serializers.serialize('json', walks)
         return HttpResponse(data, content_type='application/json')
     except Exception as e:
