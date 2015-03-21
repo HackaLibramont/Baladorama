@@ -50,7 +50,6 @@ router.register(r'walks', WalkViewSet)
 router.register(r'poi_types', PoiTypeViewSet)
 router.register(r'pois', PoiViewSet)
 router.register(r'cities', CityViewSet)
-router.register(r'gpx', GPXViewSet)
 
 urlpatterns = patterns('',
     # Examples:
