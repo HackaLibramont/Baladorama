@@ -3,7 +3,7 @@
 git_repo: https://github.com/HackaLibramont/Baladorama
 
 project_name: baladorama
-application_name: baladorama
+application_name: baladorama2
 
 ssl_dest_dir: /etc/ssl
 
