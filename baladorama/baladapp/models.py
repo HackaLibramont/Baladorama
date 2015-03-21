@@ -22,13 +22,6 @@ class Poi(models.Model):
     phone = models.CharField(max_length=45, null=True)
     poi_type = models.ForeignKey(PoiType)
 
-class City(models.Model):
-    name = models.CharField(max_length=100)
-    zipcode = models.IntegerField(null=True)
-    country = models.CharField(max_length=100)
-    latitude = models.DecimalField(max_digits=4, decimal_places=2)
-    longitude = models.DecimalField(max_digits=4, decimal_places=2)
-
 class Walk(models.Model):
     name = models.CharField(max_length=45, null=True)
     address = models.CharField(max_length=100, null=True)
