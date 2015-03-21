@@ -38,3 +38,13 @@ def find_walks(latitude, longitude, radius):
         if int(distance) <= int(radius):
             results.append(walk)
     return results
+
+def search_walks(q):
+    results = []
+    if q:
+        walks = Walk.objects.filter(description__icontains=q).all()
+    else:
+        walks = Walk.objects.all()
+    for walk in walks:
+        results.append(walk)
+    return results

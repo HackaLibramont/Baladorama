@@ -42,10 +42,15 @@ class PoiTypeViewSet(viewsets.ModelViewSet):
     queryset = PoiType.objects.all()
     serializer_class = PoiTypeSerializer
 
+class PoiViewSet(viewsets.ModelViewSet):
+    queryset = Poi.objects.all()
+    serializer_class = PoiSerializer
+
 # Routers provide an easy way of automatically determining the URL conf.
 router = routers.DefaultRouter()
 router.register(r'walks', WalkViewSet)
 router.register(r'poi_types', PoiTypeViewSet)
+router.register(r'pois', PoiViewSet)
 router.register(r'gpx', GPXViewSet)
 
 urlpatterns = patterns('',
@@ -57,4 +62,5 @@ urlpatterns = patterns('',
     url(r'^admin/', include(admin.site.urls)),
     url(r'^pois/find$', 'baladapp.views.find_pois_ctrl'),
     url(r'^walks/find$', 'baladapp.views.find_walks_ctrl'),
+    url(r'^walks/search$', 'baladapp.views.search_walks_ctrl'),
 )
