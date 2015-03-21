@@ -1,0 +1,19 @@
+---
+
+- name: Create a {{ application_name }} virtual machine via AWS
+  hosts: all
+  sudo: yes
+  sudo_user: root
+  remote_user: ubuntu
+  vars:
+    - update_apt_cache: yes
+    - setup_git_repo: yes
+  vars_files:
+    - env_vars/base.yml
+    - env_vars/remote.yml
+
+  roles:
+    - base
+    - db
+    - web
+
