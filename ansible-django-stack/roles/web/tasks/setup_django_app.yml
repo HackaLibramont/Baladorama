@@ -47,41 +47,41 @@
   environment: django_environment
   with_items:
 # nature
-    - site_archeo site_parc_camp
-    - bois_foret bois_foret
-    - arbo_prc_jrd parc_jardin
-    - arbre_remarq arbre_remarquable
-    - grottes grottes
-    - plan_eau plan_eau
-    - pt_vue_pano point_de_vue
-    - rivier_eau rivier_eau
-    - roche_rocher roche_rocher
+    - site_archeo site_parc_camp 1
+    - bois_foret bois_foret 1
+    - arbo_prc_jrd parc_jardin 1
+    - arbre_remarq arbre_remarquable 1
+    - grottes grottes 1
+    - plan_eau plan_eau 1
+    - pt_vue_pano point_de_vue 1
+    - rivier_eau rivier_eau 1
+    - roche_rocher roche_rocher 1
 #patrimoine
-    - fortificatio fortification
-    - ruine_vestig ruine_vestige
-    - bati_civil batiment_civil
-    - moulin moulin
-    - chateau chateau
-    - donjon donjon
-    - chapelle chapelle
-    - eglise eglise
+    - fortificatio fortification 2
+    - ruine_vestig ruine_vestige 2
+    - bati_civil batiment_civil 2
+    - moulin moulin 2
+    - chateau chateau 2
+    - donjon donjon 2
+    - chapelle chapelle 2
+    - eglise eglise 2
 #grastonomie
-    - barbecue barbecue
-    - bar_vin bar_vin
-    - brass_bistr brasserie_bistro
-    - cafe_bar cafe_bar
-    - pique_nique pique_nique
-    - restaurant restaurant
-    - salon_degus salon_degustation
-    - traiteur traiteur
+    - barbecue barbecue 3
+    - bar_vin bar_vin 3
+    - brass_bistr brasserie_bistro 3
+    - cafe_bar cafe_bar 3
+    - pique_nique pique_nique 3
+    - restaurant restaurant 3
+    - salon_degus salon_degustation 3
+    - traiteur traiteur 3
 #culture
-    - expo_galerie expo_galerie
-    - expo_perm expo_permanante
-    - musee musee
-    - ctr_decouv centre_decouverte
-    - parc_animal parc_animalier
-    - labyrinthe labyrinthe
-    - plaine_jeux plaine_jeux
+    - expo_galerie expo_galerie 4
+    - expo_perm expo_permanante 4
+    - musee musee 4
+    - ctr_decouv centre_decouverte 4
+    - parc_animal parc_animalier 4
+    - labyrinthe labyrinthe 4
+    - plaine_jeux plaine_jeux 4
   when: run_django_loaddata
   tags: django.loaddata
 
