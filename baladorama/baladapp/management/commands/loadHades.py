@@ -11,6 +11,7 @@ class Command(BaseCommand):
 	def handle(self, *args, **options):
 		categorie = args[0]
 		out = args[1]
+		cat_parent = args[2]
 		try:
 			username = "hackathon"
 			password = "yrgm!2902"
@@ -51,7 +52,7 @@ class Command(BaseCommand):
                 			except:
                 			        tel = None
                 			if fail == 0:
-                		       		list.append([titre, lat, lon, desc, tel, identifiant])
+                		       		list.append([titre, lat, lon, desc, tel, identifiant, cat_parent])
 
 			print count, " enregistrement(s)"
 			ok = 0
@@ -62,7 +63,8 @@ class Command(BaseCommand):
 					longitude=i[2],
 					description=i[3],
 					phone=i[4],
-					poi_type_id=i[5]
+					poi_type_id=i[5],
+                                        parent_poi_type_id=i[6]
 				)
 				poi.save()
 				ok = ok + 1

@@ -38,6 +38,53 @@
   when: run_django_loaddata
   tags: django.loaddata
 
+- name: Load django data from HADES
+  django_manage:
+    command: loadHades {{ item }}
+    app_path: "{{ application_path }}"
+    virtualenv: "{{ virtualenv_path }}"
+    settings: "{{ django_settings_file }}"
+  environment: django_environment
+  with_items:
+# nature
+    - site_archeo site_parc_camp 1
+    - bois_foret bois_foret 1
+    - arbo_prc_jrd parc_jardin 1
+    - arbre_remarq arbre_remarquable 1
+    - grottes grottes 1
+    - plan_eau plan_eau 1
+    - pt_vue_pano point_de_vue 1
+    - rivier_eau rivier_eau 1
+    - roche_rocher roche_rocher 1
+#patrimoine
+    - fortificatio fortification 2
+    - ruine_vestig ruine_vestige 2
+    - bati_civil batiment_civil 2
+    - moulin moulin 2
+    - chateau chateau 2
+    - donjon donjon 2
+    - chapelle chapelle 2
+    - eglise eglise 2
+#grastonomie
+    - barbecue barbecue 3
+    - bar_vin bar_vin 3
+    - brass_bistr brasserie_bistro 3
+    - cafe_bar cafe_bar 3
+    - pique_nique pique_nique 3
+    - restaurant restaurant 3
+    - salon_degus salon_degustation 3
+    - traiteur traiteur 3
+#culture
+    - expo_galerie expo_galerie 4
+    - expo_perm expo_permanante 4
+    - musee musee 4
+    - ctr_decouv centre_decouverte 4
+    - parc_animal parc_animalier 4
+    - labyrinthe labyrinthe 4
+    - plaine_jeux plaine_jeux 4
+  when: run_django_loaddata
+  tags: django.loaddata
+
 - name: Run Django collectstatic
   django_manage:
     command: collectstatic
