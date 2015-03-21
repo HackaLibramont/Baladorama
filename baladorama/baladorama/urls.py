@@ -47,4 +47,5 @@ urlpatterns = patterns('',
     url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     url(r'^admin/', include(admin.site.urls)),
     url(r'^pois/find$', 'baladapp.views.find_pois_ctrl'),
+    url(r'^walks/find$', 'baladapp.views.find_walks_ctrl'),
 )

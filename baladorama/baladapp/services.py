@@ -1,5 +1,5 @@
 from geopy.distance import vincenty
-from baladapp.models import Poi
+from baladapp.models import Poi, Walk
 
 def compute_distance(start, stop):
     start_lat, start_lng = start
@@ -13,7 +13,21 @@ def find_pois(latitude, longitude, radius, poi_type=None):
     for poi in pois:
         stop = (poi.latitude, poi.longitude)
         distance = compute_distance(start, stop)
-        print "%d - %s" % (distance, radius)
+        poi.distance_from = int(distance)
+        #print "%d - %s" % (distance, radius)
         if int(distance) <= int(radius):
             results.append(poi)
+    return results
+
+def find_walks(latitude, longitude, radius):
+    results = []
+    walks = Walk.objects.all()
+    start = (latitude, longitude)
+    for walk in walks:
+        stop = (walk.start_latitude, walk.start_longitude)
+        distance = compute_distance(start, stop)
+        walk.distance_from = int(distance)
+        #print "%d - %s" % (distance, radius)
+        if int(distance) <= int(radius):
+            results.append(walk)
     return results
