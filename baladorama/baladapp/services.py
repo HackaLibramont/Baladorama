@@ -24,6 +24,13 @@ def find_walks(latitude, longitude, radius):
     walks = Walk.objects.all()
     start = (latitude, longitude)
     for walk in walks:
+        waypoints_array = walk.get_waypoints()
+        #waypoints_array = []
+        #points = walk.waypoints.split(';')
+        #for point in points:
+            #coordinates = point.split(',')
+            #waypoints_array.append(coordinates)
+        print waypoints_array
         stop = (walk.start_latitude, walk.start_longitude)
         distance = compute_distance(start, stop)
         walk.distance_from = int(distance)

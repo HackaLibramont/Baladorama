@@ -1,18 +1,18 @@
 [
     {
-        "model": "baladapp.WalkPois",
+        "model": "baladapp.walk_pois",
         "pk": 1,
         "fields": {
-            "walk": "1",
-            "poi": "1"
+            "walk": 1,
+            "poi": 1
         }
     },
     {
-        "model": "baladapp.WalkPois",
+        "model": "baladapp.walk_pois",
         "pk": 2,
         "fields": {
-            "walk": "1",
-            "poi": "2"
+            "walk": 1,
+            "poi": 2
         }
     }
 ]

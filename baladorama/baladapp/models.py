@@ -1,5 +1,6 @@
 from django.db import models
 import datetime
+import json
 
 # Create your models here.
 
@@ -46,6 +47,18 @@ class Walk(models.Model):
     pois = models.ManyToManyField(Poi)
     cities = models.ManyToManyField(City, through='Location')
     distance_from = models.IntegerField(null=True)
+
+    def set_waypoints(self, x):
+        self.waypoints = json.dumps(x)
+
+    def get_waypoints(self):
+        return json.loads(self.waypoints)
+
+    def as_json(self):
+        return dict(
+            name=self.name
+
+        )
 
 class Location(models.Model):
     is_start = models.BooleanField(default=False)

@@ -1,15 +1,26 @@
 from django.conf.urls import patterns, include, url
 from django.contrib import admin
 from rest_framework import routers, serializers, viewsets
-from baladapp.models import Walk, PoiType, GPX
+from baladapp.models import Walk, PoiType, GPX, Poi
 
 # Serializers define the API representation.
+class PoiTypeSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = PoiType
+        fields = ('id', 'name', )
+
+class PoiSerializer(serializers.ModelSerializer):
+    poi_type = PoiTypeSerializer(many=False, read_only=True)
+    class Meta:
+        model = Poi
+        fields = ('id', 'name', 'latitude', 'longitude', 'description', 'website', 'phone', 'poi_type')
+
 class WalkSerializer(serializers.ModelSerializer):
-#class WalkSerializer(serializers.HyperlinkedModelSerializer):
+    pois = PoiSerializer(many=True, read_only=True)
     class Meta:
         model = Walk
-        fields = ('name', 'start_latitude', 'start_longitude', 'distance', 'is_for_walker', 'is_loop', 'description', 'avg_walker_duration', 'waypoints', 'created_at')
-        depth = 1
+        fields = ('name', 'start_latitude', 'start_longitude', 'distance', 'is_for_walker', 'is_loop', 'description', 'avg_walker_duration', 'waypoints', 'created_at', 'pois')
+        #depth = 1
 
 
 class GPXSerializer(serializers.HyperlinkedModelSerializer):
@@ -17,10 +28,6 @@ class GPXSerializer(serializers.HyperlinkedModelSerializer):
         model = GPX
         fields = ('name', )
 
-class PoiTypeSerializer(serializers.HyperlinkedModelSerializer):
-    class Meta:
-        model = PoiType
-        fields = ('id', 'name', )
 
 # ViewSets define the view behavior.
 class WalkViewSet(viewsets.ModelViewSet):

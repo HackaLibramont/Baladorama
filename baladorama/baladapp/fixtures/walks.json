@@ -16,14 +16,7 @@
             "avg_walker_duration": 20,
             "avg_horse_duration": 10,
             "avg_bike_duration": 5,
-            "waypoints": "(49.925166,5.381429),(49.920261,5.379319)"
-        }
-    },
-    {
-        "model": "baladapp.Walk",
-        "pk": 2,
-        "fields": {
-            "name": "Nice Walk"
+            "waypoints": "[{\"latitude\":\"49.92\", \"longitude\":\"5.38\"}, {\"latitude\":\"49.92\", \"longitude\":\"5.37\"}]"
         }
     }
 ]
