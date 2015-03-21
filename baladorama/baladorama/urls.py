@@ -29,6 +29,7 @@ class GPXViewSet(viewsets.ModelViewSet):
 # Routers provide an easy way of automatically determining the URL conf.
 router = routers.DefaultRouter()
 router.register(r'walks', WalkViewSet)
+router.register(r'poi_types', PoiTypeViewSet)
 router.register(r'gpx', GPXViewSet)
 
 urlpatterns = patterns('',
