@@ -19,7 +19,7 @@ angular
 				positionZoom: 14
 			},
 			init : function() {
-				this.map.setView([40.40, 50.38], 5);
+				this.map.setView([50.38, 4.40], 8);
 
 				// add an OpenStreetMap tile layer
 				L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {

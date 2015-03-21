@@ -1,7 +1,33 @@
 <ion-view view-title="POI Details">
   <ion-content ng-controller="DetailsCtrl">
-   <div>
-   	<h1>{{ poi.name }} </h1>
-   	</div>
+   <div class="list card">
+   	<div class="item item-avatar">
+    <h2>{{poi.name}}</h2>
+   
+  </div>
+
+  <div class="item item-body">
+    <img class="full-image" src="{{ poi.image_url }}">
+    <p>{{ poi.description }}</p>
+    <p>
+      <a href="#" class="subdued">1 Like</a>
+      <a href="#" class="subdued">5 Comments</a>
+    </p>
+  </div>
+
+  <div class="item tabs tabs-secondary tabs-icon-left">
+    <a class="tab-item" href="#">
+      <i class="icon ion-thumbsup"></i>
+      Like
+    </a>
+    <a class="tab-item" href="#">
+      <i class="icon ion-chatbox"></i>
+      Comment
+    </a>
+    <a class="tab-item" href="#">
+      <i class="icon ion-share"></i>
+      Share
+    </a>
+  </div>
   </ion-content>
 </ion-view>
