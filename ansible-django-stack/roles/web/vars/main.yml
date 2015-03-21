@@ -31,3 +31,4 @@ django_environment:
   EMAIL_HOST_PASSWORD: "{{ smtp_password }}"
   DATABASE_USER: "{{ db_user }}"
   DATABASE_PASSWORD: "{{ db_password }}"
+  STATIC_ROOT: "/webapps/baladorama/baladorama/baladorama/baladapp/static"
