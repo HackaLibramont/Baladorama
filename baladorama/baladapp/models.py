@@ -8,8 +8,6 @@ class City(models.Model):
     name = models.CharField(max_length=100)
     zipcode = models.IntegerField(null=True)
     country = models.CharField(max_length=100)
-    latitude = models.DecimalField(max_digits=8, decimal_places=5)
-    longitude = models.DecimalField(max_digits=8, decimal_places=5)
 
 class PoiType(models.Model):
     name = models.CharField(max_length=100)
