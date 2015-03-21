@@ -1,7 +1,7 @@
 from django.conf.urls import patterns, include, url
 from django.contrib import admin
 from rest_framework import routers, serializers, viewsets
-from baladapp.models import Walk, PoiType, GPX
+from baladapp.models import Walk, PoiType
 
 # Serializers define the API representation.
 class WalkSerializer(serializers.ModelSerializer):
@@ -11,11 +11,6 @@ class WalkSerializer(serializers.ModelSerializer):
         fields = ('name', 'start_latitude', 'start_longitude', 'distance', 'is_for_walker', 'is_loop', 'description', 'avg_walker_duration', 'waypoints', 'created_at')
         depth = 1
 
-
-class GPXSerializer(serializers.HyperlinkedModelSerializer):
-    class Meta:
-        model = GPX
-        fields = ('name', )
 
 class PoiTypeSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
@@ -27,10 +22,6 @@ class WalkViewSet(viewsets.ModelViewSet):
     queryset = Walk.objects.all()
     serializer_class = WalkSerializer
 
-class GPXViewSet(viewsets.ModelViewSet):
-    queryset = GPX.objects.all()
-    serializer_class = GPXSerializer
-
 class PoiTypeViewSet(viewsets.ModelViewSet):
     queryset = PoiType.objects.all()
     serializer_class = PoiTypeSerializer
@@ -39,7 +30,6 @@ class PoiTypeViewSet(viewsets.ModelViewSet):
 router = routers.DefaultRouter()
 router.register(r'walks', WalkViewSet)
 router.register(r'poi_types', PoiTypeViewSet)
-router.register(r'gpx', GPXViewSet)
 
 urlpatterns = patterns('',
     # Examples:

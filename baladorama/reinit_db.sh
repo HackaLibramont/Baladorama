@@ -5,4 +5,4 @@ rm db.sqlite3
 ./manage.py loaddata walks
 ./manage.py loaddata poi_types
 ./manage.py loaddata pois
-#./manage.py insertgpx
+./manage.py insertgpx
