@@ -3,15 +3,15 @@
 - name: Install packages required by the Django app inside virtualenv
   pip: virtualenv={{ virtualenv_path }} requirements={{ requirements_file }}
 
-#~ - name: Run the Django syncdb command
-  #~ django_manage:
-    #~ command: syncdb
-    #~ app_path: "{{ application_path }}"
-    #~ virtualenv: "{{ virtualenv_path }}"
-    #~ settings: "{{ django_settings_file }}"
-  #~ environment: django_environment
-  #~ when: run_django_syncdb
-  #~ tags: django.syncdb
+- name: Make Django migrations
+  django_manage:
+    command: makemigrations
+    app_path: "{{ application_path }}"
+    virtualenv: "{{ virtualenv_path }}"
+    settings: "{{ django_settings_file }}"
+  environment: django_environment
+  when: run_django_south_migration
+  tags: django.makemigrations
 
 - name: Run Django South migrations
   django_manage:
@@ -22,6 +22,21 @@
   environment: django_environment
   when: run_django_south_migration
   tags: django.migrate
+
+- name: Load django data
+  django_manage:
+    command: loaddata {{ item }}
+    app_path: "{{ application_path }}"
+    virtualenv: "{{ virtualenv_path }}"
+    settings: "{{ django_settings_file }}"
+  environment: django_environment
+  with_items:
+    - cities
+    - walks
+    - poi_types
+    - pois
+  when: run_django_loaddata
+  tags: django.loaddata
 
 - name: Run Django collectstatic
   django_manage:

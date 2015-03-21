@@ -17,7 +17,7 @@ gunicorn_max_requests: 0
 
 
 # Nginx settings.
-nginx_server_name: "{{ inventory_hostname }}"
+nginx_server_name: "79.125.108.43"
 
 
 # RabbitMQ settings.
@@ -43,9 +43,10 @@ smtp_password: mypassword
 
 
 # Application settings.
-django_settings_file: settings.dev
+django_settings_file: baladorama.settings
 django_secret_key: akr2icmg1n8%z^3fe3c+)5d0(t^cy-2_25rrl35a7@!scna^1#
 
 run_django_syncdb: yes
 run_django_south_migration: yes
 run_django_collectstatic: yes
+run_django_loaddata: yes
