@@ -25,6 +25,18 @@
         "model": "baladapp.Poi",
         "pk": 3,
         "fields": {
+            "name": "Musée des Celtes",
+            "latitude": "49.9148139",
+            "longitude": "5.378383",
+            "poi_type": 1,
+            "parent_poi_type": 1,
+            "image_url": "http://www.museedesceltes.be/medias/docs/M/10102.JPG"
+        }
+    },
+    {
+        "model": "baladapp.Poi",
+        "pk": 4,
+        "fields": {
             "name": "Atomium",
             "latitude": "50.894941",
             "longitude": "4.341547",

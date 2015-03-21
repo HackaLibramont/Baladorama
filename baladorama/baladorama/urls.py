@@ -13,7 +13,7 @@ class PoiSerializer(serializers.ModelSerializer):
     poi_type = PoiTypeSerializer(many=False, read_only=True)
     class Meta:
         model = Poi
-        fields = ('id', 'name', 'latitude', 'longitude', 'description', 'website', 'phone', 'poi_type')
+        fields = ('id', 'name', 'latitude', 'longitude', 'description', 'website', 'phone', 'poi_type', 'parent_poi_type', 'image_url')
 
 class CitySerializer(serializers.ModelSerializer):
     class Meta:

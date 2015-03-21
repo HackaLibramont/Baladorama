@@ -14,5 +14,13 @@
             "walk": 1,
             "poi": 2
         }
+    },
+    {
+        "model": "baladapp.walk_pois",
+        "pk": 3,
+        "fields": {
+            "walk": 1,
+            "poi": 3
+        }
     }
 ]

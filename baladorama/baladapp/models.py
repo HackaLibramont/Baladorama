@@ -22,6 +22,7 @@ class Poi(models.Model):
     poi_type = models.ForeignKey(PoiType, related_name='child_poi', null=True)
     parent_poi_type = models.ForeignKey(PoiType, related_name='parent_poi', null=True)
     distance_from = models.IntegerField(null=True)
+    image_url = models.CharField(max_length=255, null=True)
 
 class Walk(models.Model):
     name = models.CharField(max_length=45, null=True)

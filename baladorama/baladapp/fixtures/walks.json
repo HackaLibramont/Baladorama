@@ -16,7 +16,7 @@
             "avg_walker_duration": 20,
             "avg_horse_duration": 10,
             "avg_bike_duration": 5,
-            "waypoints": "[{\"latitude\":\"49.925166\", \"longitude\":\"5.381429\"}, {\"latitude\":\"49.922825\", \"longitude\":\"5.371596\"}, {\"latitude\":\"49.920261\", \"longitude\":\"5.379319\"}]",
+            "waypoints": "[{\"latitude\":\"49.925166\", \"longitude\":\"5.381429\"}, {\"latitude\":\"49.922825\", \"longitude\":\"5.371596\"}, {\"latitude\":\"49.920261\", \"longitude\":\"5.379319\"}, {\"latitude\":\"49.9148139\", \"longitude\":\"5.378383\"}]",
             "q_nature": 0,
             "q_heritage": 4,
             "q_food": 0,
