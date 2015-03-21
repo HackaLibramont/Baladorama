@@ -34,7 +34,11 @@ def search_walks_ctrl(request):
         q = request.GET.get('q')
         min_duration = request.GET.get('min_duration')
         max_duration = request.GET.get('max_duration')
-        walks = search_walks(q, min_duration, max_duration)
+        nature_level = request.GET.get('nature_level')
+        heritage_level = request.GET.get('heritage_level')
+        food_level = request.GET.get('food_level')
+        culture_level = request.GET.get('culture_level')
+        walks = search_walks(q, min_duration, max_duration, nature_level, heritage_level, food_level, culture_level)
         data = serializers.serialize('json', walks)
         return HttpResponse(data, content_type='application/json')
     except Exception as e:

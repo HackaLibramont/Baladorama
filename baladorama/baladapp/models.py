@@ -21,7 +21,8 @@ class Poi(models.Model):
     description = models.TextField(null=True)
     website = models.CharField(max_length=100, null=True)
     phone = models.CharField(max_length=45, null=True)
-    poi_type = models.ForeignKey(PoiType)
+    poi_type = models.ForeignKey(PoiType, related_name='child_poi', null=True)
+    parent_poi_type = models.ForeignKey(PoiType, related_name='parent_poi', null=True)
     distance_from = models.IntegerField(null=True)
 
 class Walk(models.Model):
@@ -47,6 +48,11 @@ class Walk(models.Model):
     pois = models.ManyToManyField(Poi)
     cities = models.ManyToManyField(City, through='Location')
     distance_from = models.IntegerField(null=True)
+    q_nature = models.IntegerField(default=0)
+    q_heritage = models.IntegerField(default=0)
+    q_food = models.IntegerField(default=0)
+    q_culture = models.IntegerField(default=0)
+    weight = models.IntegerField(null=True)
 
     def set_waypoints(self, x):
         self.waypoints = json.dumps(x)

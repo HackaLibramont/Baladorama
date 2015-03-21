@@ -6,7 +6,8 @@
             "name": "Gare de Libramont",
             "latitude": "49.920261",
             "longitude": "5.379319",
-            "poi_type": 1
+            "poi_type": 1,
+            "parent_poi_type": 1
         }
     },
     {
@@ -16,7 +17,8 @@
             "name": "Hôpital de Libramont",
             "latitude": "49.925166",
             "longitude": "5.381429",
-            "poi_type": 1
+            "poi_type": 1,
+            "parent_poi_type": 1
         }
     },
     {
@@ -26,7 +28,8 @@
             "name": "Atomium",
             "latitude": "50.894941",
             "longitude": "4.341547",
-            "poi_type": 1
+            "poi_type": 1,
+            "parent_poi_type": 1
         }
     }
 ]

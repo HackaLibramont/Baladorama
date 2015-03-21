@@ -24,7 +24,7 @@ class WalkSerializer(serializers.ModelSerializer):
     pois = PoiSerializer(many=True, read_only=True)
     class Meta:
         model = Walk
-        fields = ('name', 'start_latitude', 'start_longitude', 'distance', 'is_for_walker', 'is_loop', 'description', 'avg_walker_duration', 'waypoints', 'created_at', 'pois')
+        fields = ('name', 'start_latitude', 'start_longitude', 'distance', 'is_for_walker', 'is_loop', 'description', 'avg_walker_duration', 'waypoints', 'created_at', 'pois', 'q_nature', 'q_heritage', 'q_food', 'q_culture', 'weight')
         #depth = 1
 
 class GPXSerializer(serializers.HyperlinkedModelSerializer):

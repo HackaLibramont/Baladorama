@@ -12,11 +12,39 @@
             "is_for_bike": true,
             "is_for_disabled": true,
             "is_loop": true,
-            "description": "Jolie promenade dans le centre de Libramont",
+            "description": "Jolie promenade dans le centre de Libramont - patrimoine",
             "avg_walker_duration": 20,
             "avg_horse_duration": 10,
             "avg_bike_duration": 5,
-            "waypoints": "[{\"latitude\":\"49.925166\", \"longitude\":\"5.381429\"}, {\"latitude\":\"49.922825\", \"longitude\":\"5.371596\"}, {\"latitude\":\"49.920261\", \"longitude\":\"5.379319\"}]"
+            "waypoints": "[{\"latitude\":\"49.925166\", \"longitude\":\"5.381429\"}, {\"latitude\":\"49.922825\", \"longitude\":\"5.371596\"}, {\"latitude\":\"49.920261\", \"longitude\":\"5.379319\"}]",
+            "q_nature": 0,
+            "q_heritage": 4,
+            "q_food": 0,
+            "q_culture": 1
+        }
+    },
+    {
+        "model": "baladapp.Walk",
+        "pk": 2,
+        "fields": {
+            "name": "Nice Walk",
+            "start_latitude": "49.92801",
+            "start_longitude": "5.378813",
+            "distance": "2000",
+            "is_for_walker": true,
+            "is_for_horse": true,
+            "is_for_bike": true,
+            "is_for_disabled": true,
+            "is_loop": true,
+            "description": "Une autre jolie promenade dans le centre de Libramont - gastronomie",
+            "avg_walker_duration": 20,
+            "avg_horse_duration": 10,
+            "avg_bike_duration": 5,
+            "waypoints": "[{\"latitude\":\"49.925166\", \"longitude\":\"5.381429\"}, {\"latitude\":\"49.922825\", \"longitude\":\"5.371596\"}, {\"latitude\":\"49.920261\", \"longitude\":\"5.379319\"}]",
+            "q_nature": 0,
+            "q_heritage": 0,
+            "q_food": 6,
+            "q_culture": 0
         }
     }
 ]

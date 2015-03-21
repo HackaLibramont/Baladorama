@@ -40,15 +40,13 @@ def find_walks(latitude, longitude, radius):
             results.append(walk)
     return results
 
-def search_walks(q, min_duration=0, max_duration=sys.maxint):
-    #mydict = {'description__icontains': q}
+def search_walks(q, min_duration=0, max_duration=sys.maxint, nature_level=0, heritage_level=0, food_level=0, culture_level=0):
     mydict = {'description__icontains': q, 'avg_walker_duration__gte': min_duration, 'avg_walker_duration__lte': max_duration}
     walks = Walk.objects.filter(**mydict)
     results = []
-    #if q:
-        #walks = Walk.objects.filter(description__icontains=q).all()
-    #else:
-        #walks = Walk.objects.all()
     for walk in walks:
+        walk_weight = walk.q_nature*nature_level + walk.q_heritage*heritage_level + walk.q_food*food_level + walk.q_culture*culture_level
+        walk.weight = walk_weight
         results.append(walk)
+    results.sort(key=lambda x: x.weight, reverse=True)
     return results
