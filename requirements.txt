@@ -1,6 +1,6 @@
 Django==1.7.7
 Fabric==1.8.1
-Pillow==2.2.2
+Pillow
 South==0.8.2
 boto==2.21.2
 coverage==3.7
@@ -14,10 +14,10 @@ django-sticky-messages==0.1
 django-taggit==0.10
 django-timezone-field==1.0
 factory-boy==2.2.1
-gunicorn==18.0
+gunicorn
 ipython==1.1.0
 psycopg2==2.5.1
-pycrypto==2.6.1
+pycrypto
 pytz==2013.7
 reportlab==2.7
 tweepy==2.2
