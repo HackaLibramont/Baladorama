@@ -1,4 +1,4 @@
-Django==1.7.7
+Django==1.11.18
 Fabric==1.8.1
 Pillow
 South==0.8.2
